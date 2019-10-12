@@ -9,9 +9,11 @@ getRequest = (file) => {
         /* Find HTTP request */
         if (line.indexOf('GET') !== -1 || line.indexOf('POST') !== -1) {
             /* Request needs to have related */
-            fs.appendFile(`${file}/requests.txt`, line + '\n', function (err) {
-                if (err) throw err;
-            });
+            if (line.indexOf('=') !== -1) {
+                fs.appendFile(`${file}/requests.txt`, line + '\n', function (err) {
+                    if (err) throw err;
+                });
+            }
         }
         if (last) {
             console.log('Done');
