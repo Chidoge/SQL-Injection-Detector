@@ -1,0 +1,16 @@
+{
+  "name": "CS760",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extractor.js",
+  "scripts": {
+    "start": "node extractor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
