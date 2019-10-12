@@ -8,18 +8,31 @@ getRequest = (file) => {
 
         /* Find HTTP request */
         if (line.indexOf('GET') !== -1 || line.indexOf('POST') !== -1) {
-            /* Request needs to have related */
+
+            /* Request needs to be SQL-related */
             if (line.indexOf('=') !== -1) {
-                fs.appendFile(`${file}/requests.txt`, line + '\n', function (err) {
-                    if (err) throw err;
-                });
+
+                if (file === "anomalousTrafficTest") {
+                    if (line.toLowerCase().indexOf('where') !== -1 || line.toLowerCase().indexOf('select') !== -1 || line.toLowerCase().indexOf('drop') !== -1) {
+                        fs.appendFile(`${file}/requests.txt`, line + '\n', function (err) {
+                            if (err) throw err;
+                        });
+                    }
+                }
+                else {
+                    fs.appendFile(`${file}/requests.txt`, line + '\n', function (err) {
+                        if (err) throw err;
+                    });
+                }
+
             }
         }
         if (last) {
             console.log('Done');
         }
     });
-      
+
 }
 
-getRequest('normalTrafficTest');
+// getRequest('normalTrafficTest');
+getRequest('anomalousTrafficTest');
