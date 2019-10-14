@@ -1,27 +1,28 @@
 const fs = require('fs');
+const t = require('./encoding');
+
 
 getRequest = (file) => {
 
     const lineReader = require('line-reader');
-
     lineReader.eachLine(`${file}/${file}.txt`, function(line, last) {
-
         /* Find HTTP request */
         if (line.indexOf('GET') !== -1 || line.indexOf('POST') !== -1) {
 
             line = line.split(' ')[1];
+            const uri_dec = decodeURIComponent(escape(line));
             /* Request needs to be SQL-related */
-            if (line.indexOf('=') !== -1) {
+            if (uri_dec.indexOf('=') !== -1) {
 
                 if (file === "anomalousTrafficTest") {
-                    if (line.toLowerCase().indexOf('where') !== -1 || line.toLowerCase().indexOf('select') !== -1 || line.toLowerCase().indexOf('drop') !== -1) {
-                        fs.appendFileSync(`${file}/requests.txt`, line + '\n', function (err) {
+                    if (uri_dec.toLowerCase().indexOf('where') !== -1 || uri_dec.toLowerCase().indexOf('select') !== -1 || uri_dec.toLowerCase().indexOf('drop') !== -1) {
+                        fs.appendFileSync(`${file}/requests.txt`, uri_dec + '\n', function (err) {
                             if (err) throw err;
                         });
                     }
                 }
                 else {
-                    fs.appendFileSync(`${file}/requests.txt`, line + '\n', function (err) {
+                    fs.appendFileSync(`${file}/requests.txt`, uri_dec + '\n', function (err) {
                         if (err) throw err;
                     });
                 }
@@ -74,8 +75,31 @@ tokenize = (file) => {
     });
 }
 
-// getRequest('normalTrafficTest');
-// getRequest('anomalousTrafficTest');
+// translate = (file) => {
+//     const lineReader = require('line-reader');
+
+//     lineReader.eachLine(`${file}/tokens.txt`, function(line, last) {
+
+//         /* Find queries */
+//         for (var item of t.codes) {
+//             // var regex = new RegExp(item, "g");
+            
+//             line = decodeURIComponent(line);
+//         }
+//         fs.appendFileSync(`${file}/translatedTokens.txt`, line + '\n' , function (err) {
+//             if (err) throw err;
+//         });
+//         if (last) {
+//             console.log('Done');
+//         }
+//     });
+// }
+
+getRequest('normalTrafficTest');
+getRequest('anomalousTrafficTest');
 
 // tokenize('normalTrafficTest');
-tokenize('anomalousTrafficTest');
+// tokenize('anomalousTrafficTest');
+
+// translate('normalTrafficTest');
+// translate('anomalousTrafficTest');
