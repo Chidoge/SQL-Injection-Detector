@@ -33,6 +33,9 @@ def vectorize_stories(data, word_index, max_story_len, max_question_len):
         Xq.append(xq)
         Y.append(y)
 
+    print("________________________________________")
+    print(X)
+
     # Now we have to pad these sequences:
     return pad_sequences(X, maxlen=max_story_len), pad_sequences(Xq, maxlen=max_question_len), np.array(Y)
 
@@ -45,7 +48,7 @@ with open('train_qa.txt', 'rb') as f:
 with open('test_qa.txt', 'rb') as f:
     test_data = pickle.load(f)
 
-print(train_data[0])
+print(train_data)
 # Number of training instances
 len(train_data)
 # Number of test instances
