@@ -1,49 +1,13 @@
-from keras.preprocessing.text import Tokenizer
-import numpy as np
-from keras.preprocessing.sequence import pad_sequences
 from keras.models import load_model
 
-
-def format_query(query):
-    temp = []
-    temp_data = query.split()
-    temp.append(temp_data[:-1])
-    temp.append(temp_data[-1])
-    temp_tuple = tuple(temp)
-    return temp_tuple
+from preprocessing import format_query, vectorize_stories
 
 
-# Create a function for vectorizing the stories, questions and answers:
-def vectorize_stories(data, word_index, max_query_len):
-    # vectorized stories:
-    X = []
-    # vectorized answers:
-    Y = []
-
-    for query, answer in data:
-        # Getting indexes for each word in the story
-        x = []
-        for word in query:
-            if word.lower() in word_index:
-                x.append(word_index[word.lower()])
-            else:
-                x.append(0)
-        # For the answers
-        y = int(answer)
-
-        X.append(x)
-        Y.append(y)
-
-    # Now we have to pad these sequences:
-    return pad_sequences(X, maxlen=max_query_len), np.array(Y)
-
-
-def get_word_index():
-
+def get_word_index(filename):
     word_index = {}
     count = 1
     # To load the vocab and max_query_len
-    with open('temp_files/bagging_vocab.txt', 'r') as f:
+    with open('temp_files/' + filename, 'r') as f:
         for line in f:
             temp_word = line.replace("\n", "")
             word_index[temp_word] = str(count)
@@ -53,19 +17,10 @@ def get_word_index():
 
 
 def classify(query):
-
     num_classifiers = 5
     answers = []
 
-    word_index = {}
-    count = 1
-    # To load the vocab and max_query_len
-    with open('temp_files/bagging_vocab.txt', 'r') as f:
-        for line in f:
-            temp_word = line.replace("\n", "")
-            word_index[temp_word] = str(count)
-            count += 1
-
+    word_index = get_word_index("bagging_vocab.txt")
     print(word_index)
 
     test_query = [format_query(query)]
@@ -74,7 +29,7 @@ def classify(query):
 
     for i in range(num_classifiers):
 
-        model = load_model('sentiment_10_epochs_' + str(i) +'.h5')
+        model = load_model('bagging_RNN_10_epochs_' + str(i) +'.h5')
 
         pred_results = model.predict(([X_test]))
         answers.append(pred_results[0][0])
@@ -96,14 +51,14 @@ def classify(query):
 
 def test_ensemble_n(num_tests, num_classifiers):
 
-    word_index = get_word_index()
+    word_index = get_word_index("bagging_vocab.txt")
     output = []
     answers = []
 
     print('Testing ensemble...')
     # Load models
     for i in range(num_classifiers):
-        model = load_model('sentiment_10_epochs_' + str(i) + '.h5')
+        model = load_model('bagging_RNN_10_epochs_' + str(i) + '.h5')
 
         # For each model, predict 10 answers
         with open(test_file) as fp:
@@ -151,9 +106,9 @@ def test_ensemble_n(num_tests, num_classifiers):
     print('Accuracy: ' + str(num_correct) + "/" + str(num_tests))
 
 
-def test_individual(num_tests, name):
+def test_individual(num_tests, name, vocab_name):
 
-    word_index = get_word_index()
+    word_index = get_word_index(vocab_name)
     output = []
     answers = []
 
@@ -203,7 +158,7 @@ def test_individual(num_tests, name):
 def test_all_individually():
     print('Testing individually...')
     for i in range(5):
-        test_individual(100, 'sentiment_10_epochs_' + str(i) + '.h5')
+        test_individual(100, 'sentiment_10_epochs_' + str(i) + '.h5', "bagging_vocab.txt")
     print('-------')
 
 
@@ -218,7 +173,7 @@ debug_flag = False
 # classify("SELECT id FROM users 0 ")
 
 # Test an individual classifier
-test_individual(100, 'sentiment_10_epochs_0.h5')
+test_individual(100, 'RNN_10_epochs.h5', "RNN_vocab.txt")
 
 # Test the ensemble of n-classifiers
 # test_ensemble_n(100, 5)
