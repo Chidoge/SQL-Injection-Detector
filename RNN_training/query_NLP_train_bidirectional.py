@@ -5,7 +5,7 @@ from keras.preprocessing.text import Tokenizer
 
 from keras.models import Sequential, Model
 from keras.layers.embeddings import Embedding
-from keras.layers import Input, Activation, Dense, Permute, Dropout, add, dot, concatenate, LSTM
+from keras.layers import Input, Activation, Dense, Permute, Dropout, add, dot, concatenate, LSTM, Bidirectional
 
 from sklearn.model_selection import train_test_split
 from keras.models import load_model
@@ -78,19 +78,17 @@ if TRAIN_FLAG:
     max_query_len = (max(all_query_lens))
     print(max_query_len)
     # Save vocab and max_query_len for later
-    with open('temp_files/vocab.txt', 'w+') as f:
+    with open('bidirectional_vocab.txt', 'w+') as f:
         for x in vocab:
             f.write(str(x) + "\n")
 
-    word_index = {}
-    count = 1
-    for word in vocab:
-        word_index[word] = str(count)
-        count += 1
+    # Create an instance of the tokenizer object:
+    tokenizer = Tokenizer(filters = [])
+    tokenizer.fit_on_texts(vocab)
+    print(tokenizer.word_index)
 
-    print(word_index)
-    inputs_train, answers_train = vectorize_stories(train_data, word_index, max_query_len)
-    inputs_test, answers_test = vectorize_stories(test_data, word_index, max_query_len)
+    inputs_train, answers_train = vectorize_stories(train_data, tokenizer.word_index, max_query_len)
+    inputs_test, answers_test = vectorize_stories(test_data, tokenizer.word_index, max_query_len)
 
     batch_size = 32
     X_train1 = inputs_train[batch_size:]
@@ -103,7 +101,7 @@ if TRAIN_FLAG:
     embedding_size = 32
     model = Sequential()
     model.add(Embedding(vocab_len, embedding_size, input_length=max_query_len))
-    model.add(LSTM(200))
+    model.add(Bidirectional(LSTM(200)))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 
@@ -111,7 +109,7 @@ if TRAIN_FLAG:
     scores = model.evaluate(inputs_test, answers_test, verbose=0)
     print("Test accuracy:", scores[1])
 
-    filename = 'sentiment_10_epochs.h5'
+    filename = 'bidirectional_10_epochs.h5'
     model.save(filename)
 
     # Lets plot the increase of accuracy as we increase the number of training epochs
@@ -129,27 +127,23 @@ if TRAIN_FLAG:
     plt.show()
 else:
     # To load a model that we have already trained and saved:
-    model = load_model('sentiment_10_epochs.h5')
+    model = load_model('bidirectional_10_epochs.h5')
 
-    word_index = {}
-    count = 1
+    vocab = set()
     max_query_len = 27;
     # To load the vocab and max_query_len
-    with open('temp_files/vocab.txt', 'r') as f:
+    with open('bidirectional_vocab.txt', 'r') as f:
         for line in f:
-            temp_word = line.replace("\n", "")
-            word_index[temp_word] = str(count)
-            count += 1
+            vocab.union(set(line))
 
+    tokenizer = Tokenizer(filters=[])
+    tokenizer.fit_on_texts(vocab)
     # Lets check out the predictions on the test set:
     # These are just probabilities for every single word on the vocab
 
-    blah = "INSERT INTO leather (profit, flavor) VALUES (declare @s varchar(22) select @s =, 1 or 1=1) 1"
+    blah = "INSERT INTO activity_log (username, pose, file, available) VALUES (pjoe652, standing, test/test/test, true) 0"
     test_query = [format_query(blah)]
-    X_test, y_test = vectorize_stories(test_query, word_index, max_query_len)
-    print(X_test)
-    print(word_index)
-    # print(vocab)
+    X_test, y_test = vectorize_stories(test_query, tokenizer.word_index, max_query_len)
     pred_results = model.predict(([X_test]))
     print(pred_results[0][0])
 

