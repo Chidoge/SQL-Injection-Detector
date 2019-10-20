@@ -43,9 +43,9 @@ def bagging(vocab_len, max_query_len):
 
         gc.collect()
 
-        history = model.fit(X_train, y_train, validation_data=(X_test, y_test), batch_size=32, epochs=10)
+        history = model.fit(X_train, y_train, validation_data=(X_test, y_test), batch_size=128, epochs=10)
 
-        filename = 'bagging_RNN_10_epochs_' + str(i) + '.h5'
+        filename = 'trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5'
         model.save(filename)
 
         print(history.history.keys())
@@ -64,7 +64,7 @@ all_data = []
 train_data = []
 test_data = []
 
-with open('sqliTest1.txt', 'r') as f:
+with open('datasets/mixTest.txt', 'r') as f:
     for line in f:
         all_data.append(format_query(line))
 

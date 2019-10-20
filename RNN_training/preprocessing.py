@@ -25,6 +25,7 @@ def vectorize_stories(data, word_index, max_query_len):
     # Now we have to pad these sequences:
     return pad_sequences(X, maxlen=max_query_len), np.array(Y)
 
+
 def format_query(query):
     temp = []
     temp_data = query.split()

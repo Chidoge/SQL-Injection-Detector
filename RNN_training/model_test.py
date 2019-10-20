@@ -24,12 +24,12 @@ def classify(query):
     print(word_index)
 
     test_query = [format_query(query)]
-    max_query_len = 27
+    max_query_len = 55
     X_test, y_test = vectorize_stories(test_query, word_index, max_query_len)
 
     for i in range(num_classifiers):
 
-        model = load_model('bagging_RNN_10_epochs_' + str(i) +'.h5')
+        model = load_model('trained_models/bagging_RNN_10_epochs_' + str(i) +'.h5')
 
         pred_results = model.predict(([X_test]))
         answers.append(pred_results[0][0])
@@ -58,14 +58,14 @@ def test_ensemble_n(num_tests, num_classifiers):
     print('Testing ensemble...')
     # Load models
     for i in range(num_classifiers):
-        model = load_model('bagging_RNN_10_epochs_' + str(i) + '.h5')
+        model = load_model('trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5')
 
         # For each model, predict 10 answers
         with open(test_file) as fp:
             for n in range(num_tests):
                 line = fp.readline()
                 test_query = [format_query(line)]
-                max_query_len = 27
+                max_query_len = 55
                 X_test, y_test = vectorize_stories(test_query, word_index, max_query_len)
                 pred_results = model.predict(([X_test]))
                 output.append(pred_results[0][0])
@@ -158,25 +158,25 @@ def test_individual(num_tests, name, vocab_name):
 def test_all_individually():
     print('Testing individually...')
     for i in range(5):
-        test_individual(100, 'sentiment_10_epochs_' + str(i) + '.h5', "bagging_vocab.txt")
+        test_individual(100, 'trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5', "bagging_vocab.txt")
     print('-------')
 
 
 # Configurations
-test_file = 'sqliTest1.txt'
+test_file = 'datasets/maliTest.txt'
 debug_flag = False
 
 
 # Run different tests
 
 # Used to test a single query
-# classify("SELECT id FROM users 0 ")
+classify("SELECT id FROM users 0 ")
 
 # Test an individual classifier
-test_individual(100, 'RNN_10_epochs.h5', "RNN_vocab.txt")
+# test_individual(100, 'RNN_10_epochs.h5', "RNN_vocab.txt")
 
 # Test the ensemble of n-classifiers
-# test_ensemble_n(100, 5)
+# test_ensemble_n(1000, 5)
 
 # Test the classifiers individually
 # test_all_individually()

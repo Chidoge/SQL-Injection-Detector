@@ -10,7 +10,7 @@ all_data = []
 train_data = []
 test_data = []
 
-with open('sqliTest1.txt', 'r') as f:
+with open('datasets/sqliTest1.txt', 'r') as f:
     for line in f:
         all_data.append(format_query(line))
 
@@ -59,7 +59,7 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy']
 
 history = model.fit(X_train, y_train, validation_data=(X_test, y_test), batch_size=32, epochs=10)
 
-filename = 'bidirectional_RNN_10_epochs.h5'
+filename = 'trained_models/bidirectional_RNN_10_epochs.h5'
 model.save(filename)
 
 # Lets plot the increase of accuracy as we increase the number of training epochs
