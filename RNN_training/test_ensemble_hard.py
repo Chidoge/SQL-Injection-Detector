@@ -1,7 +1,7 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
-from ensemble_configs import test_file, debug_flag
+from configs import num_tests, num_classifiers, test_file, debug_flag
 
 
 def test_ensemble_n(num_tests, num_classifiers):
@@ -103,4 +103,4 @@ def test_ensemble_n(num_tests, num_classifiers):
 
 
 # Test the ensemble of n-classifiers
-test_ensemble_n(200, 5)
+test_ensemble_n(num_tests, num_classifiers)

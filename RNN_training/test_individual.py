@@ -1,7 +1,7 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
-
+from configs import num_tests
 
 def test_individual(num_tests, name, vocab_name):
 
@@ -105,7 +105,7 @@ test_file = 'datasets/normTest.txt'
 debug_flag = False
 
 # Test an individual classifier
-test_individual(100, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
+test_individual(num_tests, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
 
 # Test the classifiers individually
 # test_all_individually()
