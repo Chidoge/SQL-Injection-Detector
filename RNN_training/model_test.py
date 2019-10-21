@@ -59,7 +59,9 @@ def test_ensemble_n(num_tests, num_classifiers):
     timestamp = time.time()
     log_file_name = "logs/log_ensemble_" + str(timestamp) + ".txt"
     f = open(log_file_name, "a")
-    f.write("Data-set: " + test_file + " \n")
+    f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
+    f.write("---------------" + "\n")
+    f.write("Results: ")
 
     print('Testing ensemble...')
     # Load models
@@ -100,7 +102,7 @@ def test_ensemble_n(num_tests, num_classifiers):
                     print('M_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write("False positive - " + queries[j] + " \n")
+                f.write("False positive - at line " + str(j+1) + " - " + queries[j] + " \n")
 
                 false_positives = false_positives + 1
                 if debug_flag:
@@ -112,7 +114,7 @@ def test_ensemble_n(num_tests, num_classifiers):
                     print('N_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write("False negative - " + queries[j] + " \n")
+                f.write("False negative - at line " + str(j+1) + " - " + queries[j] + " \n")
 
                 false_negatives = false_negatives + 1
                 if debug_flag:
@@ -139,7 +141,10 @@ def test_individual(num_tests, name, vocab_name):
     timestamp = time.time()
     log_file_name = "logs/log_individual_" + temp_name + "_" + str(timestamp) + ".txt"
     f = open(log_file_name, "a")
-    f.write("Data-set: " + test_file + " \n")
+    f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
+    f.write("Used model: " + name + " \n")
+    f.write("---------------" + "\n")
+    f.write("Results: ")
 
     # Load model
     model = load_model(name)
@@ -172,7 +177,7 @@ def test_individual(num_tests, name, vocab_name):
                     print('M_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write("False positive - " + queries[j] + " \n")
+                f.write("False positive at line " + str(j+1) + " - " + queries[j] + " \n")
 
                 false_positives = false_positives + 1
                 if debug_flag:
@@ -184,7 +189,7 @@ def test_individual(num_tests, name, vocab_name):
                     print('N_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write("False negative - " + queries[j] + " \n")
+                f.write("False negative at line " + str(j+1) + " - " + queries[j] + " \n")
 
                 false_negatives = false_negatives + 1
                 if debug_flag:
