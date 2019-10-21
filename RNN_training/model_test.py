@@ -120,7 +120,7 @@ def test_individual(num_tests, name, vocab_name):
         for n in range(num_tests):
             line = fp.readline()
             test_query = [format_query(line)]
-            max_query_len = 27
+            max_query_len = 55
             X_test, y_test = vectorize_stories(test_query, word_index, max_query_len)
             pred_results = model.predict(([X_test]))
             if pred_results[0][0] > 0.5:
@@ -170,10 +170,10 @@ debug_flag = False
 # Run different tests
 
 # Used to test a single query
-classify("SELECT id FROM users 0 ")
+# classify("SELECT id FROM users 0 ")
 
 # Test an individual classifier
-# test_individual(100, 'RNN_10_epochs.h5', "RNN_vocab.txt")
+test_individual(1000, 'trained_models/RNN_10_epochs.h5', "RNN_vocab.txt")
 
 # Test the ensemble of n-classifiers
 # test_ensemble_n(1000, 5)
