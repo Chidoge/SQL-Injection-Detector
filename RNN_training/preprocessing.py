@@ -33,3 +33,16 @@ def format_query(query):
     temp.append(temp_data[-1])
     temp_tuple = tuple(temp)
     return temp_tuple
+
+
+def get_word_index(filename):
+    word_index = {}
+    count = 1
+    # To load the vocab and max_query_len
+    with open('temp_files/' + filename, 'r') as f:
+        for line in f:
+            temp_word = line.replace("\n", "")
+            word_index[temp_word] = str(count)
+            count += 1
+
+    return word_index
