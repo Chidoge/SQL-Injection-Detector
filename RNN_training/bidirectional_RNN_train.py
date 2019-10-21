@@ -10,7 +10,7 @@ all_data = []
 train_data = []
 test_data = []
 
-with open('datasets/sqliTest1.txt', 'r') as f:
+with open('datasets/mixTest.txt', 'r') as f:
     for line in f:
         all_data.append(format_query(line))
 
@@ -53,11 +53,11 @@ X_test, y_test = vectorize_stories(test_data, word_index, max_query_len)
 embedding_size = 32
 model = Sequential()
 model.add(Embedding(vocab_len, embedding_size, input_length=max_query_len))
-model.add(Bidirectional(LSTM(200)))
+model.add(Bidirectional(LSTM(128)))
 model.add(Dense(1, activation='sigmoid'))
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-history = model.fit(X_train, y_train, validation_data=(X_test, y_test), batch_size=32, epochs=10)
+history = model.fit(X_train, y_train, validation_data=(X_test, y_test), batch_size=128, epochs=10)
 
 filename = 'trained_models/bidirectional_RNN_10_epochs.h5'
 model.save(filename)
