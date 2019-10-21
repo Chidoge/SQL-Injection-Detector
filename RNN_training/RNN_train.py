@@ -4,47 +4,29 @@ from keras.layers import Input, Activation, Dense, Permute, Dropout, add, dot, c
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
-from preprocessing import format_query, vectorize_stories
+from preprocessing import format_query, vectorize_stories, get_word_index
 
 all_data = []
 train_data = []
 test_data = []
 
-with open('datasets/mixTest.txt', 'r') as f:
+dataset = 'norm'
+
+with open('datasets/' + dataset + 'Test.txt', 'r') as f:
     for line in f:
         all_data.append(format_query(line))
 
+word_index = get_word_index(dataset + '_vocab.txt')
+vocab_len = len(word_index) + 1
 
 train_data, test_data = train_test_split(all_data, test_size = 0.25, random_state = 1)
-
-# First we will build a set of all the words in the dataset:
-vocab = set()
-for query, answer in all_data:
-    vocab = vocab.union(set(query)) # Set returns unique words in the sentence
-                                    # Union returns the unique common elements from a two sets
-
-
-# Calculate len and add 1 for Keras placeholder - Placeholders are used to feed in the data to the network.
-vocab_len = len(vocab) + 1
 
 # Now we are going to calculate the longest query
 # We need this for the Keras pad sequences.
 all_query_lens = [len(data[0]) for data in all_data]
 max_query_len = (max(all_query_lens))
 print(max_query_len)
-# Save vocab and max_query_len for later
-with open('temp_files/RNN_vocab.txt', 'w+') as f:
-    for x in vocab:
-        f.write(str(x) + "\n")
 
-# Constructing a dictionary with all the words.
-word_index = {}
-count = 1
-for word in vocab:
-    word_index[word] = str(count)
-    count += 1
-
-print(word_index)
 X_train, y_train = vectorize_stories(train_data, word_index, max_query_len)
 X_test, y_test = vectorize_stories(test_data, word_index, max_query_len)
 
@@ -59,7 +41,7 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy']
 model.summary()
 history = model.fit(X_train, y_train, validation_data=(X_test, y_test), batch_size=128, epochs=10)
 
-filename = 'trained_models/RNN_10_epochs.h5'
+filename = 'trained_models/' + dataset + '_RNN_10_epochs.h5'
 model.save(filename)
 
 # Lets plot the increase of accuracy as we increase the number of training epochs
