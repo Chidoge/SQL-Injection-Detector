@@ -6,9 +6,9 @@ from preprocessing import format_query, vectorize_stories, get_word_index
 def test_ensemble_n(num_tests, num_classifiers):
 
     timestamp = time.time()
-    log_file_name = "logs/" + str(timestamp) + "_ensemble_SOFT " + ".txt"
+    log_file_name = "logs/" + str(timestamp) + "_ensemble_HARD" + ".txt"
     f = open(log_file_name, "a")
-    f.write("Ensemble - Soft voting with " + str(num_classifiers) + " classifiers")
+    f.write("Ensemble - Hard voting with " + str(num_classifiers) + " classifiers")
     f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
     f.write("---------------" + "\n")
     f.write("Mis-classifications: " + "\n")
@@ -18,7 +18,7 @@ def test_ensemble_n(num_tests, num_classifiers):
     answers = []
     queries = []
 
-    print('Testing ensemble...')
+    print('Testing ensemble (HARD VOTING)...')
     # Load models
     for i in range(num_classifiers):
         model = load_model('trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5')
@@ -43,14 +43,15 @@ def test_ensemble_n(num_tests, num_classifiers):
     false_positives = 0
     false_negatives = 0
     for j in range(0, num_tests):
-        sum_answers = 0
+        normal = 0
+        malicious = 0
         for k in range(0, num_classifiers):
-            sum_answers = sum_answers + output[(k*num_tests) + j]
-        mean = sum_answers / num_classifiers
-        if debug_flag:
-            print(mean)
+            if output[(k*num_tests) + j] > 0.5:
+                malicious = malicious + 1
+            else:
+                normal = normal + 1
 
-        if mean > 0.5:
+        if malicious > normal:
             if answers[j] == 1:
                 true_positives = true_positives + 1
                 if debug_flag:

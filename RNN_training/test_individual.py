@@ -2,21 +2,22 @@ from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
 
+
 def test_individual(num_tests, name, vocab_name):
+
+    temp_name = name.replace("/", "_")
+    timestamp = time.time()
+    log_file_name = "logs/" + str(timestamp) + "_individual_" + temp_name + ".txt"
+    f = open(log_file_name, "a")
+    f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
+    f.write("Used model: " + name + " \n")
+    f.write("---------------" + "\n")
+    f.write("Mis-classifications: " + "\n")
 
     word_index = get_word_index(vocab_name)
     output = []
     answers = []
     queries = []
-
-    temp_name = name.replace("/", "_")
-    timestamp = time.time()
-    log_file_name = "logs/log_individual_" + temp_name + "_" + str(timestamp) + ".txt"
-    f = open(log_file_name, "a")
-    f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
-    f.write("Used model: " + name + " \n")
-    f.write("---------------" + "\n")
-    f.write("Results: " + "\n")
 
     # Load model
     model = load_model(name)
@@ -27,7 +28,7 @@ def test_individual(num_tests, name, vocab_name):
             line = fp.readline()
             queries.append(line)
             test_query = [format_query(line)]
-            max_query_len = 54
+            max_query_len = 55
             X_test, y_test = vectorize_stories(test_query, word_index, max_query_len)
             pred_results = model.predict(([X_test]))
             if pred_results[0][0] > 0.5:
@@ -89,7 +90,7 @@ test_file = 'datasets/normTest.txt'
 debug_flag = False
 
 # Test an individual classifier
-# test_individual(100, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
+test_individual(100, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
 
 # Test the classifiers individually
 # test_all_individually()
