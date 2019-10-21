@@ -1,6 +1,7 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
+from ensemble_configs import test_file, debug_flag
 
 
 def test_ensemble_n(num_tests, num_classifiers):
@@ -99,12 +100,6 @@ def test_ensemble_n(num_tests, num_classifiers):
     print(line_3)
     print(line_4)
     print(line_5)
-
-
-
-# Configurations
-test_file = 'datasets/normTest.txt'
-debug_flag = False
 
 
 # Test the ensemble of n-classifiers
