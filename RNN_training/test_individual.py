@@ -51,7 +51,7 @@ def test_individual(num_tests, name, vocab_name):
                     print('M_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write("False positive at line " + str(j+1) + " - " + queries[j] + " \n")
+                f.write("False positive - at line " + str(j+1) + " - " + queries[j] + "\n")
 
                 false_positives = false_positives + 1
                 if debug_flag:
@@ -63,7 +63,7 @@ def test_individual(num_tests, name, vocab_name):
                     print('N_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write("False negative at line " + str(j+1) + " - " + queries[j] + " \n")
+                f.write("False negative - at line " + str(j+1) + " - " + queries[j] + "\n")
 
                 false_negatives = false_negatives + 1
                 if debug_flag:
@@ -72,11 +72,25 @@ def test_individual(num_tests, name, vocab_name):
         if debug_flag:
             print('-------')
 
-    print('True positives: ' + str(true_positives) + " / " + str(num_tests))
-    print('True negatives: ' + str(true_negatives) + " / " + str(num_tests))
-    print('False positives: ' + str(false_positives) + " / " + str(num_tests))
-    print('False negatives: ' + str(false_negatives) + " / " + str(num_tests))
-    print('Accuracy: ' + str(true_negatives + true_positives) + "/" + str(num_tests))
+    line_1 = 'True positives: ' + str(true_positives) + " / " + str(num_tests)
+    line_2 = 'True negatives: ' + str(true_negatives) + " / " + str(num_tests)
+    line_3 = 'False positives: ' + str(false_positives) + " / " + str(num_tests)
+    line_4 = 'False negatives: ' + str(false_negatives) + " / " + str(num_tests)
+    line_5 = 'Accuracy: ' + str(true_negatives + true_positives) + "/" + str(num_tests)
+
+    f = open(log_file_name, "a")
+    f.write("---------------------------- \n")
+    f.write(line_1 + "\n")
+    f.write(line_2 + "\n")
+    f.write(line_3 + "\n")
+    f.write(line_4 + "\n")
+    f.write(line_5 + "\n")
+
+    print(line_1)
+    print(line_2)
+    print(line_3)
+    print(line_4)
+    print(line_5)
 
 
 def test_all_individually():
