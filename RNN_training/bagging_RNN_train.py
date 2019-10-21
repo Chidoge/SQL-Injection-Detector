@@ -48,16 +48,16 @@ def bagging(vocab_len, max_query_len):
         filename = 'trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5'
         model.save(filename)
 
-        print(history.history.keys())
-        # summarize history for accuracy
-        plt.figure(figsize=(12, 12))
-        plt.plot(history.history['acc'])
-        plt.plot(history.history['val_acc'])
-        plt.title('model accuracy')
-        plt.ylabel('accuracy')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.show()
+        # print(history.history.keys())
+        # # summarize history for accuracy
+        # plt.figure(figsize=(12, 12))
+        # plt.plot(history.history['acc'])
+        # plt.plot(history.history['val_acc'])
+        # plt.title('model accuracy')
+        # plt.ylabel('accuracy')
+        # plt.xlabel('epoch')
+        # plt.legend(['train', 'test'], loc='upper left')
+        # plt.show()
 
 
 all_data = []

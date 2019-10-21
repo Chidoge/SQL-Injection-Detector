@@ -74,7 +74,10 @@ def test_ensemble_n(num_tests, num_classifiers):
                     answers.append(y_test[0])
 
     # Start comparing model outputs
-    num_correct = 0
+    true_positives = 0
+    true_negatives = 0
+    false_positives = 0
+    false_negatives = 0
     for j in range(0, num_tests):
         sum_answers = 0
         for k in range(0, num_classifiers):
@@ -85,25 +88,31 @@ def test_ensemble_n(num_tests, num_classifiers):
 
         if mean > 0.5:
             if answers[j] == 1:
-                num_correct = num_correct + 1
+                true_positives = true_positives + 1
                 if debug_flag:
                     print('M_Correct')
             else:
+                false_positives = false_positives + 1
                 if debug_flag:
                     print('M_Wrong')
         else:
             if answers[j] == 0:
-                num_correct = num_correct + 1
+                true_negatives = true_negatives + 1
                 if debug_flag:
                     print('N_Correct')
             else:
+                false_negatives = false_negatives + 1
                 if debug_flag:
                     print('N_Wrong')
 
         if debug_flag:
             print('-------')
 
-    print('Accuracy: ' + str(num_correct) + "/" + str(num_tests))
+    print('True positives: ' + str(true_positives) + " / " + str(num_tests))
+    print('True negatives: ' + str(true_negatives) + " / " + str(num_tests))
+    print('False positives: ' + str(false_positives) + " / " + str(num_tests))
+    print('False negatives: ' + str(false_negatives) + " / " + str(num_tests))
+    print('Accuracy: ' + str(true_negatives + true_positives) + "/" + str(num_tests))
 
 
 def test_individual(num_tests, name, vocab_name):
@@ -130,29 +139,38 @@ def test_individual(num_tests, name, vocab_name):
             answers.append(y_test[0])
 
     # Start comparing model outputs
-    num_correct = 0
+    true_positives = 0
+    true_negatives = 0
+    false_positives = 0
+    false_negatives = 0
     for j in range(0, num_tests):
         if output[j] > 0.5:
             if answers[j] == 1:
-                num_correct = num_correct + 1
+                true_positives = true_positives + 1
                 if debug_flag:
                     print('M_Correct')
             else:
+                false_positives = false_positives + 1
                 if debug_flag:
                     print('M_Wrong')
         else:
             if answers[j] == 0:
-                num_correct = num_correct + 1
+                true_negatives = true_negatives + 1
                 if debug_flag:
                     print('N_Correct')
             else:
+                false_negatives = false_negatives + 1
                 if debug_flag:
                     print('N_Wrong')
 
         if debug_flag:
             print('-------')
 
-    print('Accuracy: ' + str(num_correct) + "/" + str(num_tests))
+    print('True positives: ' + str(true_positives) + " / " + str(num_tests))
+    print('True negatives: ' + str(true_negatives) + " / " + str(num_tests))
+    print('False positives: ' + str(false_positives) + " / " + str(num_tests))
+    print('False negatives: ' + str(false_negatives) + " / " + str(num_tests))
+    print('Accuracy: ' + str(true_negatives + true_positives) + "/" + str(num_tests))
 
 
 def test_all_individually():
@@ -173,10 +191,10 @@ debug_flag = False
 # classify("SELECT id FROM users 0 ")
 
 # Test an individual classifier
-test_individual(1000, 'trained_models/RNN_10_epochs.h5', "RNN_vocab.txt")
+test_individual(100, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
 
 # Test the ensemble of n-classifiers
-# test_ensemble_n(1000, 5)
+# test_ensemble_n(100, 5)
 
 # Test the classifiers individually
 # test_all_individually()
