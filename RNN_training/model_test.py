@@ -59,7 +59,7 @@ def test_ensemble_n(num_tests, num_classifiers):
     timestamp = time.time()
     log_file_name = "logs/log_ensemble_" + str(timestamp) + ".txt"
     f = open(log_file_name, "a")
-    f.write("Data-set: " + test_file +" \n")
+    f.write("Data-set: " + test_file + " \n")
 
     print('Testing ensemble...')
     # Load models
@@ -100,7 +100,7 @@ def test_ensemble_n(num_tests, num_classifiers):
                     print('M_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write(queries[j] + " \n")
+                f.write("False positive - " + queries[j] + " \n")
 
                 false_positives = false_positives + 1
                 if debug_flag:
@@ -112,7 +112,7 @@ def test_ensemble_n(num_tests, num_classifiers):
                     print('N_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write(queries[j] + " \n")
+                f.write("False negative - " + queries[j] + " \n")
 
                 false_negatives = false_negatives + 1
                 if debug_flag:
@@ -135,10 +135,11 @@ def test_individual(num_tests, name, vocab_name):
     answers = []
     queries = []
 
+    temp_name = name.replace("/", "_")
     timestamp = time.time()
-    log_file_name = "logs/log_individual_" + str(timestamp) + ".txt"
+    log_file_name = "logs/log_individual_" + temp_name + "_" + str(timestamp) + ".txt"
     f = open(log_file_name, "a")
-    f.write("Data-set: " + test_file +" \n")
+    f.write("Data-set: " + test_file + " \n")
 
     # Load model
     model = load_model(name)
@@ -171,7 +172,7 @@ def test_individual(num_tests, name, vocab_name):
                     print('M_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write(queries[j] + " \n")
+                f.write("False positive - " + queries[j] + " \n")
 
                 false_positives = false_positives + 1
                 if debug_flag:
@@ -183,7 +184,7 @@ def test_individual(num_tests, name, vocab_name):
                     print('N_Correct')
             else:
                 f = open(log_file_name, "a")
-                f.write(queries[j] + " \n")
+                f.write("False negative - " + queries[j] + " \n")
 
                 false_negatives = false_negatives + 1
                 if debug_flag:
@@ -217,10 +218,10 @@ debug_flag = False
 # classify("SELECT id FROM users 0 ")
 
 # Test an individual classifier
-# test_individual(100, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
+test_individual(100, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
 
 # Test the ensemble of n-classifiers
-test_ensemble_n(100, 5)
+# test_ensemble_n(100, 5)
 
 # Test the classifiers individually
 # test_all_individually()
