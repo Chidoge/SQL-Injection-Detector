@@ -10,6 +10,7 @@ def test_ensemble_n(num_tests, num_classifiers):
     f = open(log_file_name, "a")
     f.write("Ensemble - Hard voting with " + str(num_classifiers) + " classifiers")
     f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
+    f.write(str(num_tests) + " queries tested" + "\n")
     f.write("---------------" + "\n")
     f.write("Mis-classifications: " + "\n")
 
@@ -91,4 +92,4 @@ test_file = 'datasets/normTest.txt'
 debug_flag = False
 
 # Test the ensemble of n-classifiers
-test_ensemble_n(100, 5)
+test_ensemble_n(1000, 5)

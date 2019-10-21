@@ -10,6 +10,7 @@ def test_individual(num_tests, name, vocab_name):
     log_file_name = "logs/" + str(timestamp) + "_individual_" + temp_name + ".txt"
     f = open(log_file_name, "a")
     f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
+    f.write(str(num_tests) + " queries tested" + "\n")
     f.write("Used model: " + name + " \n")
     f.write("---------------" + "\n")
     f.write("Mis-classifications: " + "\n")
