@@ -61,7 +61,7 @@ def test_ensemble_n(num_tests, num_classifiers):
     f = open(log_file_name, "a")
     f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
     f.write("---------------" + "\n")
-    f.write("Results: ")
+    f.write("Results: " + "\n")
 
     print('Testing ensemble...')
     # Load models
@@ -144,7 +144,7 @@ def test_individual(num_tests, name, vocab_name):
     f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
     f.write("Used model: " + name + " \n")
     f.write("---------------" + "\n")
-    f.write("Results: ")
+    f.write("Results: " + "\n")
 
     # Load model
     model = load_model(name)
