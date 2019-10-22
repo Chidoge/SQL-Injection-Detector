@@ -21,7 +21,7 @@ def test_individual(num_tests, test_file, vocab, model_name, max_query_len, debu
     queries = []
 
     # Load model
-    model = load_model(model_name)
+    model = load_model('trained_models/' + model_name + '.h5')
 
     # For each model, predict 10 answers
     with open(test_file) as fp:
