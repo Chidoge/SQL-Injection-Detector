@@ -1,7 +1,7 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
-from configs import num_tests, vocab, max_query_len
+from configs import num_tests, vocab, max_query_len, debug_flag, test_file
 
 
 def test_individual(name):
@@ -93,19 +93,15 @@ def test_individual(name):
     print(line_5)
 
 
-def test_all_individually():
+def test_all_individually(name):
     print('Testing individually...')
     for i in range(5):
-        test_individual(100, 'trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5')
+        test_individual(name + '_' + str(i) + '.h5')
     print('-------')
 
 
-# Configurations
-test_file = 'datasets/normTest.txt'
-debug_flag = False
-
 # Test an individual classifier
-test_individual(num_tests, 'trained_models/bagging_RNN_10_epochs_0.h5')
+test_individual('trained_models/norm_bidirectional_RNN_10_epochs.h5')
 
 # Test the classifiers individually
 # test_all_individually()
