@@ -1,16 +1,16 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
-from configs import num_tests, num_classifiers, test_file, debug_flag, vocab, ensemble_model_name, max_query_len
 
 
-def test_ensemble_n():
+def test_ensemble_n(num_tests, num_classifiers, test_file, vocab, model_name, max_query_len, debug_flag):
 
     timestamp = time.time()
     log_file_name = "logs/" + str(timestamp) + "_ensemble_SOFT " + ".txt"
     f = open(log_file_name, "a")
     f.write("Ensemble - Soft voting with " + str(num_classifiers) + " classifiers \n")
     f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
+    f.write("Model tested: " + model_name + " \n")
     f.write(str(num_tests) + " queries tested" + "\n")
     f.write("---------------" + "\n")
     f.write("Mis-classifications: " + "\n")
@@ -23,7 +23,7 @@ def test_ensemble_n():
     print('Testing ensemble (SOFT VOTING)...')
     # Load models
     for i in range(num_classifiers):
-        model = load_model('trained_models/' + ensemble_model_name + str(i) + '.h5')
+        model = load_model('trained_models/' + model_name + str(i) + '.h5')
 
         # For each model, predict 10 answers
         with open(test_file) as fp:
@@ -98,7 +98,3 @@ def test_ensemble_n():
     print(line_3)
     print(line_4)
     print(line_5)
-
-
-# Test the ensemble of n-classifiers
-test_ensemble_n()

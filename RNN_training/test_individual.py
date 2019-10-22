@@ -1,18 +1,17 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
-from configs import num_tests, vocab, max_query_len, debug_flag, test_file
 
 
-def test_individual(name):
+def test_individual(num_tests, test_file, vocab, model_name, max_query_len, debug_flag):
 
-    temp_name = name.replace("/", "_")
+    temp_name = model_name.replace("/", "_")
     timestamp = time.time()
     log_file_name = "logs/" + str(timestamp) + "_individual_" + temp_name + ".txt"
     f = open(log_file_name, "a")
     f.write("Tested with data-set: " + test_file + " at " + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)) + " \n")
+    f.write("Model tested: " + model_name + " \n")
     f.write(str(num_tests) + " queries tested" + "\n")
-    f.write("Used model: " + name + " \n")
     f.write("---------------" + "\n")
     f.write("Mis-classifications: " + "\n")
 
@@ -22,7 +21,7 @@ def test_individual(name):
     queries = []
 
     # Load model
-    model = load_model(name)
+    model = load_model(model_name)
 
     # For each model, predict 10 answers
     with open(test_file) as fp:
@@ -93,15 +92,9 @@ def test_individual(name):
     print(line_5)
 
 
-def test_all_individually(name):
-    print('Testing individually...')
-    for i in range(5):
-        test_individual(name + '_' + str(i) + '.h5')
-    print('-------')
+# def test_all_individually(name):
+#     print('Testing individually...')
+#     for i in range(5):
+#         test_individual(name + '_' + str(i) + '.h5')
+#     print('-------')
 
-
-# Test an individual classifier
-test_individual('trained_models/norm_bidirectional_RNN_10_epochs.h5')
-
-# Test the classifiers individually
-# test_all_individually()
