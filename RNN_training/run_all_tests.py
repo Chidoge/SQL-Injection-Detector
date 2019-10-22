@@ -43,8 +43,8 @@ def run_all_tests():
         ]
 
         for i in range(2):
-            test_ensemble_hard.test_ensemble_n(num_tests, num_classifiers, test_file=test_sets_3[i], vocab='norm_vocab.txt', model_name='norm_bagging_RNN_10_epochs_', max_query_len=54, debug_flag=debug_flag)
-            test_ensemble_soft.test_ensemble_n(num_tests, num_classifiers, test_file=test_sets_3[i], vocab='norm_vocab.txt', model_name='norm_bagging_RNN_10_epochs_', max_query_len=54, debug_flag=debug_flag)
+            test_ensemble_hard.test_ensemble_n(num_tests, num_classifiers, test_file=test_sets_3[i], vocab='norm_vocab.txt', model_name='norm_bagging_RNN_10_epochs_', max_query_len=21, debug_flag=debug_flag)
+            test_ensemble_soft.test_ensemble_n(num_tests, num_classifiers, test_file=test_sets_3[i], vocab='norm_vocab.txt', model_name='norm_bagging_RNN_10_epochs_', max_query_len=21, debug_flag=debug_flag)
 
     # ---------------------- Test ensembles - END -----------------------------------------------
 
@@ -79,8 +79,8 @@ def run_all_tests():
         ]
 
         for i in range(2):
-            test_individual.test_individual(num_tests, test_file=test_sets_6[i], vocab='norm_vocab.txt', model_name='norm_RNN_10_epochs', max_query_len=54, debug_flag=debug_flag)
-            test_individual.test_individual(num_tests, test_file=test_sets_6[i], vocab='norm_vocab.txt', model_name='norm_bidirectional_RNN_10_epochs', max_query_len=54, debug_flag=debug_flag)
+            test_individual.test_individual(num_tests, test_file=test_sets_6[i], vocab='norm_vocab.txt', model_name='norm_RNN_10_epochs', max_query_len=21, debug_flag=debug_flag)
+            test_individual.test_individual(num_tests, test_file=test_sets_6[i], vocab='norm_vocab.txt', model_name='norm_bidirectional_RNN_10_epochs', max_query_len=21, debug_flag=debug_flag)
 
 
 run_all_tests()
