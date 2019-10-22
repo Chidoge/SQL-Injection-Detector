@@ -1,10 +1,10 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
-from configs import num_tests, num_classifiers, test_file, debug_flag
+from configs import num_tests, num_classifiers, test_file, debug_flag, vocab, ensemble_model_name, max_query_len
 
 
-def test_ensemble_n(num_tests, num_classifiers):
+def test_ensemble_n():
 
     timestamp = time.time()
     log_file_name = "logs/" + str(timestamp) + "_ensemble_HARD" + ".txt"
@@ -15,7 +15,7 @@ def test_ensemble_n(num_tests, num_classifiers):
     f.write("---------------" + "\n")
     f.write("Mis-classifications: " + "\n")
 
-    word_index = get_word_index("bagging_vocab.txt")
+    word_index = get_word_index(vocab)
     output = []
     answers = []
     queries = []
@@ -23,7 +23,7 @@ def test_ensemble_n(num_tests, num_classifiers):
     print('Testing ensemble (HARD VOTING)...')
     # Load models
     for i in range(num_classifiers):
-        model = load_model('trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5')
+        model = load_model('trained_models/' + ensemble_model_name + str(i) + '.h5')
 
         # For each model, predict 10 answers
         with open(test_file) as fp:
@@ -31,7 +31,6 @@ def test_ensemble_n(num_tests, num_classifiers):
                 line = fp.readline()
                 queries.append(line)
                 test_query = [format_query(line)]
-                max_query_len = 55
                 X_test, y_test = vectorize_stories(test_query, word_index, max_query_len)
                 pred_results = model.predict(([X_test]))
                 output.append(pred_results[0][0])
@@ -103,4 +102,4 @@ def test_ensemble_n(num_tests, num_classifiers):
 
 
 # Test the ensemble of n-classifiers
-test_ensemble_n(num_tests, num_classifiers)
+test_ensemble_n()

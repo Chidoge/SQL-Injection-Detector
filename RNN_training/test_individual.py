@@ -1,9 +1,10 @@
 from keras.models import load_model
 import time
 from preprocessing import format_query, vectorize_stories, get_word_index
-from configs import num_tests
+from configs import num_tests, vocab, max_query_len
 
-def test_individual(num_tests, name, vocab_name):
+
+def test_individual(name):
 
     temp_name = name.replace("/", "_")
     timestamp = time.time()
@@ -15,7 +16,7 @@ def test_individual(num_tests, name, vocab_name):
     f.write("---------------" + "\n")
     f.write("Mis-classifications: " + "\n")
 
-    word_index = get_word_index(vocab_name)
+    word_index = get_word_index(vocab)
     output = []
     answers = []
     queries = []
@@ -29,7 +30,6 @@ def test_individual(num_tests, name, vocab_name):
             line = fp.readline()
             queries.append(line)
             test_query = [format_query(line)]
-            max_query_len = 55
             X_test, y_test = vectorize_stories(test_query, word_index, max_query_len)
             pred_results = model.predict(([X_test]))
             if pred_results[0][0] > 0.5:
@@ -96,7 +96,7 @@ def test_individual(num_tests, name, vocab_name):
 def test_all_individually():
     print('Testing individually...')
     for i in range(5):
-        test_individual(100, 'trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5', "bagging_vocab.txt")
+        test_individual(100, 'trained_models/bagging_RNN_10_epochs_' + str(i) + '.h5')
     print('-------')
 
 
@@ -105,7 +105,7 @@ test_file = 'datasets/normTest.txt'
 debug_flag = False
 
 # Test an individual classifier
-test_individual(num_tests, 'trained_models/bagging_RNN_10_epochs_0.h5', "bagging_vocab.txt")
+test_individual(num_tests, 'trained_models/bagging_RNN_10_epochs_0.h5')
 
 # Test the classifiers individually
 # test_all_individually()
